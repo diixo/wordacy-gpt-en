@@ -115,7 +115,7 @@ def generate_jsonl(verbs: List[str], out_path: str, irregular: Dict[str, Dict[st
 
 if __name__ == "__main__":
 
-    verbs_160 = [
+    verbs = [
         # your original 10
         "go", "take", "make", "know", "think", "see", "come", "want", "use", "find",
 
@@ -129,20 +129,30 @@ if __name__ == "__main__":
         "remember", "love", "consider", "appear", "buy", "wait", "serve", "die", "send", "expect",
         "build", "stay", "fall", "cut", "reach", "kill", "remain", "suggest", "raise", "pass",
         "sell", "decide", "return", "explain", "hope", "develop", "carry", "break", "choose", "draw",
-        "drive", "eat", "drink", "sleep", "read", "write", "speak", "listen", "hear", "learn",
-        "teach", "study", "plan", "travel", "meet", "join", "leave", "arrive", "enter", "finish",
-        "close", "answer", "help", "push", "pull", "cook", "clean", "wash", "buy", "sell",
-        "send", "receive", "show", "hide", "forget", "forgive", "catch", "throw",
+        "drive", "eat", "drink", "sleep", "listen",
+        "teach", "study", "plan", "travel", "join", "arrive", "enter", "finish",
+        "close", "answer", "push", "pull", "cook", "clean", "wash",
+        "receive", "hide", "forget", "forgive", "catch", "throw", "do", "have",
 
         "be", "say", "wear", "tear", "swim", "sing", "ring", "rise",
         "shake", "shine", "shoot", "shut", "slide", "smell", "swing", "swear",
         "lend", "hit", "hurt", "dig", "feed", "fight", "fly", "freeze",
         "hang", "lay", "lie", "light", "ride", "seek", "stick", "strike",
+
+        "assemble", "exchange", "connect", "search", "test", "train", "tune", "promote", "rotate",
+
+        "adjust", "balance", "calculate", "design", "explore", "measure", "repair", "replace", "select", "transform",
+        "install", "update", "upgrade", "validate", "analyze", "compile", "debug", "deploy", "encrypt", "synchronize",
+        "forecast", "generate", "integrate", "optimize", "simulate", "streamline", "supply", "sustain", "utilize", "visualize",
+        "upload", "download", "configure", "navigate", "monitor", "schedule", "prioritize", "document", "collaborate", "communicate",
+        "establish", "negotiate", "coordinate", "facilitate", "implement", "orchestrate", "strategize", "spearhead", "safeguard",
+        "improve", "reduce",
+
     ]
 
     # Irregular overrides: expand this for your verbs.
     # keys: base verb; values may include past, pp, s3, ing (base optional)
-    irregular = {
+    irregulars = {
         "go": {"past": "went", "pp": "gone", "s3": "goes", "ing": "going"},
         "take": {"past": "took", "pp": "taken", "s3": "takes", "ing": "taking"},
         "make": {"past": "made", "pp": "made", "s3": "makes", "ing": "making"},
@@ -303,9 +313,85 @@ if __name__ == "__main__":
         "ride":   {"past": "rode",   "pp": "ridden", "s3": "rides",  "ing": "riding"},
         "seek":   {"past": "sought", "pp": "sought", "s3": "seeks",  "ing": "seeking"},
         "stick":  {"past": "stuck",  "pp": "stuck",  "s3": "sticks", "ing": "sticking"},
-        "strike": {"past": "struck", "pp": "struck", "s3": "strikes","ing": "striking"}, 
+        "strike": {"past": "struck", "pp": "struck", "s3": "strikes","ing": "striking"},
+
+        "assemble": {"past": "assembled", "pp": "assembled", "s3": "assembles", "ing": "assembling"},
+        "exchange": {"past": "exchanged", "pp": "exchanged", "s3": "exchanges", "ing": "exchanging"},
+        "connect":  {"past": "connected", "pp": "connected", "s3": "connects",  "ing": "connecting"},
+        "search":   {"past": "searched",  "pp": "searched",  "s3": "searches",  "ing": "searching"},
+        "test":     {"past": "tested",    "pp": "tested",    "s3": "tests",     "ing": "testing"},
+        "train":    {"past": "trained",   "pp": "trained",   "s3": "trains",    "ing": "training"},
+        "tune":     {"past": "tuned",     "pp": "tuned",     "s3": "tunes",     "ing": "tuning"},
+        "promote":  {"past": "promoted",  "pp": "promoted",  "s3": "promotes",  "ing": "promoting"},
+        "rotate":   {"past": "rotated",   "pp": "rotated",   "s3": "rotates",   "ing": "rotating"},
+
+        # your new list
+        "adjust": {"past": "adjusted", "pp": "adjusted", "s3": "adjusts", "ing": "adjusting"},
+        "balance": {"past": "balanced", "pp": "balanced", "s3": "balances", "ing": "balancing"},
+        "calculate": {"past": "calculated", "pp": "calculated", "s3": "calculates", "ing": "calculating"},
+        "design": {"past": "designed", "pp": "designed", "s3": "designs", "ing": "designing"},
+        "explore": {"past": "explored", "pp": "explored", "s3": "explores", "ing": "exploring"},
+        "measure": {"past": "measured", "pp": "measured", "s3": "measures", "ing": "measuring"},
+        "repair": {"past": "repaired", "pp": "repaired", "s3": "repairs", "ing": "repairing"},
+        "replace": {"past": "replaced", "pp": "replaced", "s3": "replaces", "ing": "replacing"},
+        "select": {"past": "selected", "pp": "selected", "s3": "selects", "ing": "selecting"},
+        "transform": {"past": "transformed", "pp": "transformed", "s3": "transforms", "ing": "transforming"},
+
+        "install": {"past": "installed", "pp": "installed", "s3": "installs", "ing": "installing"},
+        "update": {"past": "updated", "pp": "updated", "s3": "updates", "ing": "updating"},
+        "upgrade": {"past": "upgraded", "pp": "upgraded", "s3": "upgrades", "ing": "upgrading"},
+        "validate": {"past": "validated", "pp": "validated", "s3": "validates", "ing": "validating"},
+        "analyze": {"past": "analyzed", "pp": "analyzed", "s3": "analyzes", "ing": "analyzing"},
+        "compile": {"past": "compiled", "pp": "compiled", "s3": "compiles", "ing": "compiling"},
+        "debug": {"past": "debugged", "pp": "debugged", "s3": "debugs", "ing": "debugging"},
+        "deploy": {"past": "deployed", "pp": "deployed", "s3": "deploys", "ing": "deploying"},
+        "encrypt": {"past": "encrypted", "pp": "encrypted", "s3": "encrypts", "ing": "encrypting"},
+        "synchronize": {"past": "synchronized", "pp": "synchronized", "s3": "synchronizes", "ing": "synchronizing"},
+
+        # note: forecast can also be "forecast/forecast"
+        "forecast": {"past": "forecasted", "pp": "forecasted", "s3": "forecasts", "ing": "forecasting"},
+        "generate": {"past": "generated", "pp": "generated", "s3": "generates", "ing": "generating"},
+        "integrate": {"past": "integrated", "pp": "integrated", "s3": "integrates", "ing": "integrating"},
+        "optimize": {"past": "optimized", "pp": "optimized", "s3": "optimizes", "ing": "optimizing"},
+        "simulate": {"past": "simulated", "pp": "simulated", "s3": "simulates", "ing": "simulating"},
+        "streamline": {"past": "streamlined", "pp": "streamlined", "s3": "streamlines", "ing": "streamlining"},
+        "supply": {"past": "supplied", "pp": "supplied", "s3": "supplies", "ing": "supplying"},
+        "sustain": {"past": "sustained", "pp": "sustained", "s3": "sustains", "ing": "sustaining"},
+        "utilize": {"past": "utilized", "pp": "utilized", "s3": "utilizes", "ing": "utilizing"},
+        "visualize": {"past": "visualized", "pp": "visualized", "s3": "visualizes", "ing": "visualizing"},
+
+        "upload": {"past": "uploaded", "pp": "uploaded", "s3": "uploads", "ing": "uploading"},
+        "download": {"past": "downloaded", "pp": "downloaded", "s3": "downloads", "ing": "downloading"},
+        "configure": {"past": "configured", "pp": "configured", "s3": "configures", "ing": "configuring"},
+        "navigate": {"past": "navigated", "pp": "navigated", "s3": "navigates", "ing": "navigating"},
+        "monitor": {"past": "monitored", "pp": "monitored", "s3": "monitors", "ing": "monitoring"},
+        "schedule": {"past": "scheduled", "pp": "scheduled", "s3": "schedules", "ing": "scheduling"},
+        "prioritize": {"past": "prioritized", "pp": "prioritized", "s3": "prioritizes", "ing": "prioritizing"},
+        "document": {"past": "documented", "pp": "documented", "s3": "documents", "ing": "documenting"},
+        "collaborate": {"past": "collaborated", "pp": "collaborated", "s3": "collaborates", "ing": "collaborating"},
+        "communicate": {"past": "communicated", "pp": "communicated", "s3": "communicates", "ing": "communicating"},
+
+        "establish":   {"past": "established",   "pp": "established",   "s3": "establishes",   "ing": "establishing"},
+        "negotiate":   {"past": "negotiated",    "pp": "negotiated",    "s3": "negotiates",    "ing": "negotiating"},
+        "coordinate":  {"past": "coordinated",   "pp": "coordinated",   "s3": "coordinates",   "ing": "coordinating"},
+        "facilitate":  {"past": "facilitated",   "pp": "facilitated",   "s3": "facilitates",   "ing": "facilitating"},
+        "implement":   {"past": "implemented",   "pp": "implemented",   "s3": "implements",    "ing": "implementing"},
+        "orchestrate": {"past": "orchestrated",  "pp": "orchestrated",  "s3": "orchestrates",  "ing": "orchestrating"},
+        "strategize":  {"past": "strategized",   "pp": "strategized",   "s3": "strategizes",   "ing": "strategizing"},
+        "spearhead":   {"past": "spearheaded",   "pp": "spearheaded",   "s3": "spearheads",    "ing": "spearheading"},
+        "safeguard":   {"past": "safeguarded",   "pp": "safeguarded",   "s3": "safeguards",    "ing": "safeguarding"},
+        "improve":     {"past": "improved",      "pp": "improved",      "s3": "improves",      "ing": "improving"},
+        "reduce":      {"past": "reduced",       "pp": "reduced",       "s3": "reduces",       "ing": "reducing"},
     }
 
+    verb_sets = set(verbs)
+    irregular_sets = set(irregulars.keys())
+    # missing = verb_sets - irregular_sets
+    # missing = irregular_sets - verb_sets
+    # print(missing)
 
-    generate_jsonl(verbs_160, "verbs_sft.jsonl", irregular)
+    print(len(verbs), len(irregulars))
+    assert(len(verbs) == len(irregulars))
+
+    generate_jsonl(verbs, "verbs_sft.jsonl", irregulars)
     print("Wrote:", "verbs_sft.jsonl")
