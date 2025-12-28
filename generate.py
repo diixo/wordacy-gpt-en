@@ -148,7 +148,7 @@ if __name__ == "__main__":
         "establish", "negotiate", "coordinate", "facilitate", "implement", "orchestrate", "strategize", "spearhead", "safeguard",
         "improve", "reduce", "increase", "manage", "organize", "direct", "evaluate", "decrease",
         "align", "audit", "refactor", "migrate", "commit", "submit", "review", "merge", "clone", "blow", "dance", "dream", "describe", "interrupt",
-
+        "participate", "recommend", "subscribe", "translate", "volunteer", "corrupt", "control", "react", "adapt", "complete"
     ]
 
     # Irregular overrides: expand this for your verbs.
@@ -406,6 +406,16 @@ if __name__ == "__main__":
         "describe":  {"past": "described",   "pp": "described",   "s3": "describes",  "ing": "describing"},
         "interrupt": {"past": "interrupted", "pp": "interrupted", "s3": "interrupts", "ing": "interrupting"},
 
+        "participate": {"past": "participated", "pp": "participated", "s3": "participates", "ing": "participating"},
+        "recommend":   {"past": "recommended",  "pp": "recommended",  "s3": "recommends",   "ing": "recommending"},
+        "subscribe":   {"past": "subscribed",   "pp": "subscribed",   "s3": "subscribes",   "ing": "subscribing"},
+        "translate":   {"past": "translated",   "pp": "translated",   "s3": "translates",   "ing": "translating"},
+        "volunteer":   {"past": "volunteered",  "pp": "volunteered",  "s3": "volunteers",   "ing": "volunteering"},
+        "corrupt":     {"past": "corrupted",    "pp": "corrupted",    "s3": "corrupts",     "ing": "corrupting"},
+        "control":     {"past": "controlled",   "pp": "controlled",   "s3": "controls",     "ing": "controlling"},
+        "react":       {"past": "reacted",      "pp": "reacted",      "s3": "reacts",       "ing": "reacting"},
+        "adapt":       {"past": "adapted",      "pp": "adapted",      "s3": "adapts",       "ing": "adapting"},
+        "complete":    {"past": "completed",    "pp": "completed",    "s3": "completes",    "ing": "completing"},
     }
 
     verb_sets = set(verbs)
