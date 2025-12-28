@@ -146,7 +146,8 @@ if __name__ == "__main__":
         "forecast", "generate", "integrate", "optimize", "simulate", "streamline", "supply", "sustain", "utilize", "visualize",
         "upload", "download", "configure", "navigate", "monitor", "schedule", "prioritize", "document", "collaborate", "communicate",
         "establish", "negotiate", "coordinate", "facilitate", "implement", "orchestrate", "strategize", "spearhead", "safeguard",
-        "improve", "reduce",
+        "improve", "reduce", "increase", "manage", "organize", "direct", "evaluate", "decrease",
+        "align", "audit", "refactor", "migrate", "commit", "submit", "review", "merge", "clone", "blow", "dance", "dream", "describe", "interrupt",
 
     ]
 
@@ -382,6 +383,29 @@ if __name__ == "__main__":
         "safeguard":   {"past": "safeguarded",   "pp": "safeguarded",   "s3": "safeguards",    "ing": "safeguarding"},
         "improve":     {"past": "improved",      "pp": "improved",      "s3": "improves",      "ing": "improving"},
         "reduce":      {"past": "reduced",       "pp": "reduced",       "s3": "reduces",       "ing": "reducing"},
+        "increase": {"past": "increased", "pp": "increased", "s3": "increases", "ing": "increasing"},
+        "manage":   {"past": "managed",   "pp": "managed",   "s3": "manages",   "ing": "managing"},
+        "organize": {"past": "organized", "pp": "organized", "s3": "organizes", "ing": "organizing"},
+        "direct":   {"past": "directed",  "pp": "directed",  "s3": "directs",   "ing": "directing"},
+        "evaluate": {"past": "evaluated", "pp": "evaluated", "s3": "evaluates", "ing": "evaluating"},
+        "decrease": {"past": "decreased", "pp": "decreased", "s3": "decreases", "ing": "decreasing"},
+
+        "align":     {"past": "aligned",     "pp": "aligned",     "s3": "aligns",     "ing": "aligning"},
+        "audit":     {"past": "audited",     "pp": "audited",     "s3": "audits",     "ing": "auditing"},
+        "refactor":  {"past": "refactored",  "pp": "refactored",  "s3": "refactors",  "ing": "refactoring"},
+        "migrate":   {"past": "migrated",    "pp": "migrated",    "s3": "migrates",   "ing": "migrating"},
+        "commit":    {"past": "committed",   "pp": "committed",   "s3": "commits",    "ing": "committing"},
+        "submit":    {"past": "submitted",   "pp": "submitted",   "s3": "submits",    "ing": "submitting"},
+        "review":    {"past": "reviewed",    "pp": "reviewed",    "s3": "reviews",    "ing": "reviewing"},
+        "merge":     {"past": "merged",      "pp": "merged",      "s3": "merges",     "ing": "merging"},
+        "clone":     {"past": "cloned",      "pp": "cloned",      "s3": "clones",     "ing": "cloning"},
+
+        "blow":      {"past": "blew",        "pp": "blown",       "s3": "blows",      "ing": "blowing"},
+        "dance":     {"past": "danced",      "pp": "danced",      "s3": "dances",     "ing": "dancing"},
+        "dream":     {"past": "dreamt",      "pp": "dreamt",      "s3": "dreams",     "ing": "dreaming"},
+        "describe":  {"past": "described",   "pp": "described",   "s3": "describes",  "ing": "describing"},
+        "interrupt": {"past": "interrupted", "pp": "interrupted", "s3": "interrupts", "ing": "interrupting"},
+
     }
 
     verb_sets = set(verbs)
