@@ -148,8 +148,15 @@ if __name__ == "__main__":
         "establish", "negotiate", "coordinate", "facilitate", "implement", "orchestrate", "strategize", "spearhead", "safeguard",
         "improve", "reduce", "increase", "manage", "organize", "direct", "evaluate", "decrease",
         "align", "audit", "refactor", "migrate", "commit", "submit", "review", "merge", "clone", "blow", "dance", "dream", "describe", "interrupt",
-        "participate", "recommend", "subscribe", "translate", "volunteer", "corrupt", "control", "react", "adapt", "complete"
+        "participate", "recommend", "subscribe", "translate", "volunteer", "corrupt", "control", "react", "adapt", "complete",
+
+        "bear", "beat", "beget", "befall", "behold", "beseech", "beset", "bet", "bid", "bind", "bite", "burn", "burst", "cost",
+
+        "fit", "flee", "fling", "forbid", "foresee", "forsake",
+        "spell", "spill", "spit", "split", "spread", "thrive", "tread", "spoil", "spring", "steal",
+        "sting", "strive", "swallow", "wake", "weave", "weep", "withhold", "wring",
     ]
+
 
     # Irregular overrides: expand this for your verbs.
     # keys: base verb; values may include past, pp, s3, ing (base optional)
@@ -416,8 +423,51 @@ if __name__ == "__main__":
         "react":       {"past": "reacted",      "pp": "reacted",      "s3": "reacts",       "ing": "reacting"},
         "adapt":       {"past": "adapted",      "pp": "adapted",      "s3": "adapts",       "ing": "adapting"},
         "complete":    {"past": "completed",    "pp": "completed",    "s3": "completes",    "ing": "completing"},
+
+        "bear":    {"past": "bore",    "pp": "borne",   "s3": "bears",   "ing": "bearing"},   # alt pp: born (в значении "родить/родиться")
+        "beat":    {"past": "beat",    "pp": "beaten",  "s3": "beats",   "ing": "beating"},
+        "beget":   {"past": "begot",   "pp": "begotten","s3": "begets",  "ing": "begetting"}, # alt past/pp: begat/begat
+        "befall":  {"past": "befell",  "pp": "befallen","s3": "befalls", "ing": "befalling"},
+        "behold":  {"past": "beheld",  "pp": "beheld",  "s3": "beholds", "ing": "beholding"},
+        "beseech": {"past": "besought","pp": "besought","s3": "beseeches","ing": "beseeching"}, # alt past/pp: beseeched/beseeched
+        "beset":   {"past": "beset",   "pp": "beset",   "s3": "besets",  "ing": "besetting"},
+        "bet":     {"past": "bet",     "pp": "bet",     "s3": "bets",    "ing": "betting"},   # alt past/pp: betted/betted
+        "bid":     {"past": "bid",     "pp": "bid",     "s3": "bids",    "ing": "bidding"},   # alt pp: bidden (в архаич./формальных)
+        "bind":    {"past": "bound",   "pp": "bound",   "s3": "binds",   "ing": "binding"},
+        "bite":    {"past": "bit",     "pp": "bitten",  "s3": "bites",   "ing": "biting"},
+        "burn":    {"past": "burnt",   "pp": "burnt",   "s3": "burns",   "ing": "burning"},   # alt past/pp: burned/burned
+        "burst":   {"past": "burst",   "pp": "burst",   "s3": "bursts",  "ing": "bursting"},
+        "cost":    {"past": "cost",    "pp": "cost",    "s3": "costs",   "ing": "costing"},
+        "fit":      {"past": "fit",      "pp": "fit",      "s3": "fits",      "ing": "fitting"},   # alt past/pp: fitted/fitted
+        "flee":     {"past": "fled",     "pp": "fled",     "s3": "flees",     "ing": "fleeing"},
+        "fling":    {"past": "flung",    "pp": "flung",    "s3": "flings",    "ing": "flinging"},
+        "forbid":   {"past": "forbade",  "pp": "forbidden","s3": "forbids",   "ing": "forbidding"},
+        "foresee":  {"past": "foresaw",  "pp": "foreseen", "s3": "foresees",  "ing": "foreseeing"},
+        "forsake":  {"past": "forsook",  "pp": "forsaken", "s3": "forsakes",  "ing": "forsaking"},
+
+        "spell":  {"past": "spelt",   "pp": "spelt",   "s3": "spells",  "ing": "spelling"},   # alt: spelled/spelled
+        "spill":  {"past": "spilt",   "pp": "spilt",   "s3": "spills",  "ing": "spilling"},   # alt: spilled/spilled
+        "spit":   {"past": "spat",    "pp": "spat",    "s3": "spits",   "ing": "spitting"},   # alt pp: spit; alt past: spit
+        "split":  {"past": "split",   "pp": "split",   "s3": "splits",  "ing": "splitting"},
+        "spread": {"past": "spread",  "pp": "spread",  "s3": "spreads", "ing": "spreading"},
+        "thrive": {"past": "throve",  "pp": "thriven", "s3": "thrives", "ing": "thriving"},   # common modern: thrived/thrived
+        "tread":  {"past": "trod",    "pp": "trodden", "s3": "treads",  "ing": "treading"},   # alt past/pp: treaded/treaded
+        "spoil":  {"past": "spoilt",  "pp": "spoilt",  "s3": "spoils",  "ing": "spoiling"},   # alt: spoiled/spoiled
+        "spring": {"past": "sprang",  "pp": "sprung",  "s3": "springs", "ing": "springing"},
+        "steal":  {"past": "stole",   "pp": "stolen",  "s3": "steals",  "ing": "stealing"},
+
+        "sting":     {"past": "stung",     "pp": "stung",      "s3": "stings",     "ing": "stinging"},
+        "strive":    {"past": "strove",    "pp": "striven",    "s3": "strives",    "ing": "striving"},   # common modern: strived/strived
+        "swallow":   {"past": "swallowed", "pp": "swallowed",  "s3": "swallows",   "ing": "swallowing"},
+        "wake":      {"past": "woke",      "pp": "woken",      "s3": "wakes",      "ing": "waking"},     # alt pp: waked
+        "weave":     {"past": "wove",      "pp": "woven",      "s3": "weaves",     "ing": "weaving"},    # alt past/pp: weaved/weaved
+        "weep":      {"past": "wept",      "pp": "wept",       "s3": "weeps",      "ing": "weeping"},
+        "withhold":  {"past": "withheld",  "pp": "withheld",   "s3": "withholds",  "ing": "withholding"},
+        "wring":     {"past": "wrung",     "pp": "wrung",      "s3": "wrings",     "ing": "wringing"},
+
     }
 
+    verbs = sorted(verbs)
     verb_sets = set(verbs)
     irregular_sets = set(irregulars.keys())
     # missing = verb_sets - irregular_sets
@@ -429,3 +479,6 @@ if __name__ == "__main__":
 
     generate_jsonl(verbs, "verbs_sft.jsonl", irregulars)
     print("Wrote:", "verbs_sft.jsonl")
+
+    print("#" * 28)
+    #for v in verbs: print(v)
