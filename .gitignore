@@ -2,4 +2,4 @@
 wandb/
 __py*
 
-verbs*.json
+verbs*.jsonl
