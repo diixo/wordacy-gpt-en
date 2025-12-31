@@ -769,3 +769,585 @@
 {"verb":"", "meaning":"", "example":"Cut out this paragraph; the report will be better without it."}
 {"verb":"", "meaning":"", "example":"I don't want to talk about it! Cut it out!"}
 {"verb":"", "meaning":"", "example":"Cut up these onions and carrots."}
+
+
+{"verb":"", "meaning":"", "example":"He decided against selling the house."}
+{"verb":"", "meaning":"", "example":"We decided against your plan."}
+{"verb":"", "meaning":"", "example":"We decided on selling the house."}
+{"verb":"", "meaning":"", "example":"We decided on going to Spain in the summer."}
+{"verb":"", "meaning":"", "example":"This scientist dedicated his whole life to research."}
+{"verb":"", "meaning":"", "example":"He dedicated his latest novel to his daughter."}
+{"verb":"", "meaning":"", "example":"The train departs for Paris at 6:30."}
+{"verb":"", "meaning":"", "example":"The train departs from Rome at 7:40."}
+{"verb":"", "meaning":"", "example":"The rule departs from the pattern in this case."}
+{"verb":"", "meaning":"", "example":"He departed from the truth."}
+{"verb":"", "meaning":"", "example":"It depends on the weather. It doesn't depend on me."}
+{"verb":"", "meaning":"", "example":"You can always depend on him."}
+{"verb":"", "meaning":"", "example":"This scientist devoted his whole life to research."}
+{"verb":"", "meaning":"", "example":"He devotes his Sundays to children."}
+{"verb":"", "meaning":"", "example":"He would die for his principles."}
+{"verb":"", "meaning":"", "example":"He died for his country."}
+{"verb":"", "meaning":"", "example":"I'm dying for a cup of coffee."}
+{"verb":"", "meaning":"", "example":"die from wounds, die from lack of food, die from hunger, die from cold, die from starvation"}
+{"verb":"", "meaning":"", "example":"die of cancer, die of pneumonia, die of old age, die of hunger, die of thirst, die of cold"}
+{"verb":"", "meaning":"", "example":"died of grief, be dying of curiosity, be dying of boredom"}
+{"verb":"", "meaning":"", "example":"Dinosaurs died out millions of years ago."}
+{"verb":"", "meaning":"", "example":"They disagree about everything."}
+{"verb":"", "meaning":"", "example":"They often disagree on the way children should be raised."}
+{"verb":"", "meaning":"", "example":"I disagree with you about it."}
+{"verb":"", "meaning":"", "example":"I disagree with your plan."}
+{"verb":"", "meaning":"", "example":"Your report disagrees with these facts."}
+{"verb":"", "meaning":"", "example":"Fried meat disagrees with my stomach."}
+{"verb":"", "meaning":"", "example":"Divide this cake into six parts."}
+{"verb":"", "meaning":"", "example":"They divided into three groups."}
+{"verb":"", "meaning":"", "example":"Your report isn't good. You have to do it over."}
+{"verb":"", "meaning":"", "example":"We have to do without chocolate."}
+{"verb":"", "meaning":"", "example":"The little boy was dragging behind the older boys."}
+{"verb":"", "meaning":"", "example":"He dragged the dog into the car."}
+{"verb":"", "meaning":"", "example":"Don't try to drag me into their conflict."}
+{"verb":"", "meaning":"", "example":"He drew a gun from his pocket."}
+{"verb":"", "meaning":"", "example":"I need to draw some money from my bank account."}
+{"verb":"", "meaning":"", "example":"We draw volunteers from students."}
+{"verb":"", "meaning":"", "example":"They drew him into a fight, and he ended up in a hospital."}
+{"verb":"", "meaning":"", "example":"The bus is drawing into the station now."}
+{"verb":"", "meaning":"", "example":"What are you dressed up for?"}
+{"verb":"", "meaning":"", "example":"Let's drink to the newly weds!"}
+{"verb":"", "meaning":"", "example":"Let's drink to Anna's health."}
+{"verb":"", "meaning":"", "example":"He was driving at 70 miles per hour when the accident happened."}
+{"verb":"", "meaning":"", "example":"What are you driving at?"}
+{"verb":"", "meaning":"", "example":"How nice of you to drop by! I've just dropped in to say I'm going away."}
+{"verb":"", "meaning":"", "example":"He dropped me off at the bank."}
+{"verb":"", "meaning":"", "example":"He doesn't go to school, he dropped out last year."}
+{"verb":"", "meaning":"", "example":"He dropped out of school when he was 15."}
+{"verb":"", "meaning":"", "example":"The boat is not equipped for cooking, so we'll have to eat sandwiches for two days."}
+{"verb":"", "meaning":"", "example":"He is not equipped for real life yet."}
+{"verb":"", "meaning":"", "example":"The kitchen is equipped with modern appliances."}
+{"verb":"", "meaning":"", "example":"They equipped the expedition with tools and maps."}
+{"verb":"", "meaning":"", "example":"He is not equipped with enough knowledge for this job."}
+{"verb":"", "meaning":"", "example":"Please excuse me for being late."}
+{"verb":"", "meaning":"", "example":"Excuse me for interrupting you, but could you give me a copy of the report?"}
+{"verb":"", "meaning":"", "example":"Don't expect good work from him; he is lazy and careless."}
+{"verb":"", "meaning":"", "example":"I expected more from her."}
+{"verb":"", "meaning":"", "example":"Can you explain this task to the students?"}
+{"verb":"", "meaning":"", "example":"He was exposed to the cold for too long."}
+{"verb":"", "meaning":"", "example":"The film was exposed to light."}
+{"verb":"", "meaning":"", "example":"His crimes were exposed to the public."}
+{"verb":"", "meaning":"", "example":"My shoes are falling apart."}
+{"verb":"", "meaning":"", "example":"His business is falling apart."}
+{"verb":"", "meaning":"", "example":"Her marriage is falling apart."}
+{"verb":"", "meaning":"", "example":"Sometimes good friends fall apart."}
+{"verb":"", "meaning":"", "example":"The little boy fell behind the older boys."}
+{"verb":"", "meaning":"", "example":"He fell down and hurt his leg."}
+{"verb":"", "meaning":"", "example":"He fell for her as soon as they met."}
+{"verb":"", "meaning":"", "example":"I can't believe I fell for his story!"}
+{"verb":"", "meaning":"", "example":"He fell from the ladder and hurt his leg."}
+{"verb":"", "meaning":"", "example":"He fell off the bicycle and hurt his leg."}
+{"verb":"", "meaning":"", "example":"They fell in love and got married."}
+{"verb":"", "meaning":"", "example":"He fell in love with Mary."}
+{"verb":"", "meaning":"", "example":"She fell in love with jazz music."}
+{"verb":"", "meaning":"", "example":"She opened her bag, and this letter fell out."}
+{"verb":"", "meaning":"", "example":"This letter fell out of her bag."}
+{"verb":"", "meaning":"", "example":"They fell out of love and divorced."}
+{"verb":"", "meaning":"", "example":"He fell over a stair and hurt his knee."}
+{"verb":"", "meaning":"", "example":"How do you feel about his new plan?"}
+{"verb":"", "meaning":"", "example":"I sincerely feel for you in your loss."}
+{"verb":"", "meaning":"", "example":"I don't feel up to cleaning the house."}
+{"verb":"", "meaning":"", "example":"I can't figure out how much I owe them."}
+{"verb":"", "meaning":"", "example":"I can't figure out where all the money has gone."}
+{"verb":"", "meaning":"", "example":"I can't figure him out."}
+{"verb":"", "meaning":"", "example":"Fill in your name and address, please. Fill in this line, please."}
+{"verb":"", "meaning":"", "example":"Fill out this form, please."}
+{"verb":"", "meaning":"", "example":"The gas tank is almost empty, we need to fill it up at the nearest gas station."}
+{"verb":"", "meaning":"", "example":"He filled my glass with water."}
+{"verb":"", "meaning":"", "example":"She was filled with joy."}
+{"verb":"", "meaning":"", "example":"I found out that he lied to me."}
+{"verb":"", "meaning":"", "example":"I found out that Maria left town."}
+{"verb":"", "meaning":"", "example":"I think we can fit in my computer table here."}
+{"verb":"", "meaning":"", "example":"He doesn't have any friends because he doesn't fit in with anyone."}
+{"verb":"", "meaning":"", "example":"Sorry, I forgot about your request."}
+{"verb":"", "meaning":"", "example":"Don't forget about Tom. He is waiting for your call."}
+{"verb":"", "meaning":"", "example":"Please forgive me for losing your book."}
+{"verb":"", "meaning":"", "example":"Please forgive me for letting you down. I'll never do that again."}
+{"verb":"", "meaning":"", "example":"How will we get across the river?"}
+{"verb":"", "meaning":"", "example":"The meaning of his message doesn't get across."}
+{"verb":"", "meaning":"", "example":"Did her poem get across to you?"}
+{"verb":"", "meaning":"", "example":"How are you getting along?"}
+{"verb":"", "meaning":"", "example":"Is your book getting along?"}
+{"verb":"", "meaning":"", "example":"Does Mary get along with her roommate?"}
+{"verb":"", "meaning":"", "example":"Jim and Liz don't get along with each other."}
+{"verb":"", "meaning":"", "example":"Can you get at the top of the shelf?"}
+{"verb":"", "meaning":"", "example":"We need to get at the cause of this problem."}
+{"verb":"", "meaning":"", "example":"What are you getting at?"}
+{"verb":"", "meaning":"", "example":"The guard forgot to lock the door, and the thieves got away."}
+{"verb":"", "meaning":"", "example":"We need rest. Let's get away just for one day."}
+{"verb":"", "meaning":"", "example":"The robbers managed to get away from the police."}
+{"verb":"", "meaning":"", "example":"The police didn't find the thief. He got away with his crime. He got away with it."}
+{"verb":"", "meaning":"", "example":"They got away with the stolen diamonds."}
+{"verb":"", "meaning":"", "example":"We were away on vacation."}
+{"verb":"", "meaning":"", "example":"We got back yesterday. Get back to work."}
+{"verb":"", "meaning":"", "example":"Don't worry, we'll get by somehow."}
+{"verb":"", "meaning":"", "example":"How did he get by the guards and the dogs?"}
+{"verb":"", "meaning":"", "example":"He is very perceptive and attentive. Even small things don't get by him."}
+{"verb":"", "meaning":"", "example":"Jimmy, get down from that tree right now! - Mommy, I can't get down!"}
+{"verb":"", "meaning":"", "example":"This gloomy weather really gets me down."}
+{"verb":"", "meaning":"", "example":"Nothing can get me down now."}
+{"verb":"", "meaning":"", "example":"Let's get down to business."}
+{"verb":"", "meaning":"", "example":"It's already ten o'clock. Let's get down to work."}
+{"verb":"", "meaning":"", "example":"How did he get in? He got in through the window."}
+{"verb":"", "meaning":"", "example":"Get into the car!"}
+{"verb":"", "meaning":"", "example":"She doesn't get into town often."}
+{"verb":"", "meaning":"", "example":"He got into trouble."}
+{"verb":"", "meaning":"", "example":"Get your feet off the table!"}
+{"verb":"", "meaning":"", "example":"Get your hand off my shoulder!"}
+{"verb":"", "meaning":"", "example":"He got off the train at the River Station."}
+{"verb":"", "meaning":"", "example":"How are you getting on?"}
+{"verb":"", "meaning":"", "example":"Is your book getting on?"}
+{"verb":"", "meaning":"", "example":"He got on the bus on Maple Avenue."}
+{"verb":"", "meaning":"", "example":"She broke the window and got out. Get out of the house!"}
+{"verb":"", "meaning":"", "example":"He got out of the car and walked to the bank."}
+{"verb":"", "meaning":"", "example":"You'll get over it soon."}
+{"verb":"", "meaning":"", "example":"I'm glad you got over your illness so quickly."}
+{"verb":"", "meaning":"", "example":"He'll get over these difficulties soon."}
+{"verb":"", "meaning":"", "example":"The refrigerator won't go through this narrow door."}
+{"verb":"", "meaning":"", "example":"I don't know how he got through college, he never studied."}
+{"verb":"", "meaning":"", "example":"We got to London at night."}
+{"verb":"", "meaning":"", "example":"This music really gets to me."}
+{"verb":"", "meaning":"", "example":"We should get together again some time."}
+{"verb":"", "meaning":"", "example":"Their family usually gets together for Christmas."}
+{"verb":"", "meaning":"", "example":"He gets up at eight o'clock."}
+{"verb":"", "meaning":"", "example":"She gave away a lot of books."}
+{"verb":"", "meaning":"", "example":"Her trembling voice gave away her fear."}
+{"verb":"", "meaning":"", "example":"He gave away several gang members to the police."}
+{"verb":"", "meaning":"", "example":"He gave back the money that he owed."}
+{"verb":"", "meaning":"", "example":"Don't give in without a fight."}
+{"verb":"", "meaning":"", "example":"The teacher gave out the test papers."}
+{"verb":"", "meaning":"", "example":"His strength gave out, and he fell."}
+{"verb":"", "meaning":"", "example":"Give the book to Ann."}
+{"verb":"", "meaning":"", "example":"Give my regards to your family."}
+{"verb":"", "meaning":"", "example":"He gives all his time to work."}
+{"verb":"", "meaning":"", "example":"She often gives to charity."}
+{"verb":"", "meaning":"", "example":"She gave up smoking a year ago."}
+{"verb":"", "meaning":"", "example":"I gave up trying to fix my old car."}
+{"verb":"", "meaning":"", "example":"Don't give up! Keep trying!"}
+{"verb":"", "meaning":"", "example":"You go ahead, I'll join you later."}
+{"verb":"", "meaning":"", "example":"The director allowed him to go ahead with his plan of changes."}
+{"verb":"", "meaning":"", "example":"Go ahead, we are listening."}
+{"verb":"", "meaning":"", "example":"He went along Maple Street to the center."}
+{"verb":"", "meaning":"", "example":"Don't go away, please wait here."}
+{"verb":"", "meaning":"", "example":"He went back to his hometown."}
+{"verb":"", "meaning":"", "example":"Go back three pages."}
+{"verb":"", "meaning":"", "example":"Go back to sleep."}
+{"verb":"", "meaning":"", "example":"He promised he would help, but then he went back on his word."}
+{"verb":"", "meaning":"", "example":"She went by me without saying hello."}
+{"verb":"", "meaning":"", "example":"I went by the park and the church."}
+{"verb":"", "meaning":"", "example":"He always goes to work by car."}
+{"verb":"", "meaning":"", "example":"We went there by plane."}
+{"verb":"", "meaning":"", "example":"Next time we'll go there by train."}
+{"verb":"", "meaning":"", "example":"He goes by the name Smith."}
+{"verb":"", "meaning":"", "example":"Years go by, people get older."}
+{"verb":"", "meaning":"", "example":"The prices never go down."}
+{"verb":"", "meaning":"", "example":"His temperature is going down."}
+{"verb":"", "meaning":"", "example":"The sun will go down soon."}
+{"verb":"", "meaning":"", "example":"He went down with pneumonia."}
+{"verb":"", "meaning":"", "example":"Our sales have been going down for a long time."}
+{"verb":"", "meaning":"", "example":"He went down the stairs to the train platform."}
+{"verb":"", "meaning":"", "example":"Go down this street and turn left at the bank."}
+{"verb":"", "meaning":"", "example":"Let's go for a walk."}
+{"verb":"", "meaning":"", "example":"Let's go for a drive."}
+{"verb":"", "meaning":"", "example":"He decided to go for the tournament. Go for it!"}
+{"verb":"", "meaning":"", "example":"I don't go for this plan."}
+{"verb":"", "meaning":"", "example":"If I were you, I'd go for Candidate No. 2."}
+{"verb":"", "meaning":"", "example":"The door was open, so he went in."}
+{"verb":"", "meaning":"", "example":"He went into that building."}
+{"verb":"", "meaning":"", "example":"I can't go into your report now."}
+{"verb":"", "meaning":"", "example":"The alarm clock went off at six o'clock."}
+{"verb":"", "meaning":"", "example":"The power went off again yesterday."}
+{"verb":"", "meaning":"", "example":"Go on reading."}
+{"verb":"", "meaning":"", "example":"Please go on."}
+{"verb":"", "meaning":"", "example":"He went out to get a newspaper."}
+{"verb":"", "meaning":"", "example":"Jim and Mary went out yesterday. They went to a French restaurant. They don't go out often."}
+{"verb":"", "meaning":"", "example":"Go over these chapters again."}
+{"verb":"", "meaning":"", "example":"I need time to go over your report."}
+{"verb":"", "meaning":"", "example":"The deal went through."}
+{"verb":"", "meaning":"", "example":"His plan will never go through."}
+{"verb":"", "meaning":"", "example":"He will never go through with his plan."}
+{"verb":"", "meaning":"", "example":"The refrigerator won't go through this narrow door."}
+{"verb":"", "meaning":"", "example":"She went through the park."}
+{"verb":"", "meaning":"", "example":"He's gone through a lot of suffering."}
+{"verb":"", "meaning":"", "example":"Go through these chapters again."}
+{"verb":"", "meaning":"", "example":"Go to bed."}
+{"verb":"", "meaning":"", "example":"Go to page 9."}
+{"verb":"", "meaning":"", "example":"He went to the bank yesterday."}
+{"verb":"", "meaning":"", "example":"He went to Rome last month."}
+{"verb":"", "meaning":"", "example":"Her son goes to law school."}
+{"verb":"", "meaning":"", "example":"I have to go to work now."}
+{"verb":"", "meaning":"", "example":"Does this bus go to the center?"}
+{"verb":"", "meaning":"", "example":"This scarf and this dress don't go together."}
+{"verb":"", "meaning":"", "example":"Kindness and generosity often go together."}
+{"verb":"", "meaning":"", "example":"Tom and Liz have been going together for a year."}
+{"verb":"", "meaning":"", "example":"The prices have gone up again."}
+{"verb":"", "meaning":"", "example":"His temperature is going up."}
+{"verb":"", "meaning":"", "example":"He went up the stairs to his room."}
+{"verb":"", "meaning":"", "example":"He went up the hill quickly."}
+{"verb":"", "meaning":"", "example":"This scarf doesn't go with this dress."}
+{"verb":"", "meaning":"", "example":"Apples go with cheese."}
+{"verb":"", "meaning":"", "example":"I'll go with you to the store."}
+{"verb":"", "meaning":"", "example":"Tom went with Gina before he met Liz."}
+{"verb":"", "meaning":"", "example":"He grabbed at the opportunity to get a job with that company."}
+{"verb":"", "meaning":"", "example":"He graduated from college in 1997."}
+{"verb":"", "meaning":"", "example":"They were good friends some time ago, but they grew apart with years."}
+{"verb":"", "meaning":"", "example":"He grew into a fine young man."}
+{"verb":"", "meaning":"", "example":"This small town grows on you with every day."}
+{"verb":"", "meaning":"", "example":"First she didn't like Jim, but he grew on her as she got to know him better."}
+{"verb":"", "meaning":"", "example":"This boy is growing so fast! He grew out of all his clothes."}
+{"verb":"", "meaning":"", "example":"His latest novel grew out of a brief encounter with a deer hunter."}
+{"verb":"", "meaning":"", "example":"He grew up in New York. When will you grow up?"}
+{"verb":"", "meaning":"", "example":"Your time is up. Please hand in your test papers."}
+{"verb":"", "meaning":"", "example":"Twice a week she helps to hand out blankets and clothes to homeless people."}
+{"verb":"", "meaning":"", "example":"Hang in there! Help is coming!"}
+{"verb":"", "meaning":"", "example":"Hang in there! Don't give up!"}
+{"verb":"", "meaning":"", "example":"Hang on, we are going to jump."}
+{"verb":"", "meaning":"", "example":"Tell him to hang on for a couple of hours, a rescue team is on the way."}
+{"verb":"", "meaning":"", "example":"Hang on, I'll see if he is in."}
+{"verb":"", "meaning":"", "example":"It's dangerous to hang out of the window."}
+{"verb":"", "meaning":"", "example":"Where can I find them? - They usually hang out in the bar on Oak Street."}
+{"verb":"", "meaning":"", "example":"You can hang up your coat on the coat rack in the hall."}
+{"verb":"", "meaning":"", "example":"He thanked her and hung up."}
+{"verb":"", "meaning":"", "example":"He hung up on her, and after that they never spoke again."}
+{"verb":"", "meaning":"", "example":"Don't hang up on me!"}
+{"verb":"", "meaning":"", "example":"What happened to Tom? He looks awful."}
+{"verb":"", "meaning":"", "example":"What do you have against my plan?"}
+{"verb":"", "meaning":"", "example":"He has a couple of things against you."}
+{"verb":"", "meaning":"", "example":"They headed for New York last week."}
+{"verb":"", "meaning":"", "example":"Have you heard about the accident?"}
+{"verb":"", "meaning":"", "example":"I haven't heard from him in years."}
+{"verb":"", "meaning":"", "example":"He helped her out when she lost her job."}
+{"verb":"", "meaning":"", "example":"Thank you for helping me out."}
+{"verb":"", "meaning":"", "example":"What can I help you with? He helped me with my report / with my work."}
+{"verb":"", "meaning":"", "example":"What are you hinting at? He hinted at this possibility."}
+{"verb":"", "meaning":"", "example":"He hinted to me that he wanted to buy that house."}
+{"verb":"", "meaning":"", "example":"They hit upon gold."}
+{"verb":"", "meaning":"", "example":"I hit upon a plan."}
+{"verb":"", "meaning":"", "example":"The barricades will hold back the crowds for some time."}
+{"verb":"", "meaning":"", "example":"She tried to hold back her tears."}
+{"verb":"", "meaning":"", "example":"He held back several important facts."}
+{"verb":"", "meaning":"", "example":"Can you hold down the noise?"}
+{"verb":"", "meaning":"", "example":"Hold down the Ctrl key and press Home."}
+{"verb":"", "meaning":"", "example":"Catch the rope and hold on!"}
+{"verb":"", "meaning":"", "example":"How long can they hold on?"}
+{"verb":"", "meaning":"", "example":"Hold on, I forgot my key."}
+{"verb":"", "meaning":"", "example":"Hold on, I have to check with my calendar."}
+{"verb":"", "meaning":"", "example":"Catch the rope and hold onto it! Hold onto my arm."}
+{"verb":"", "meaning":"", "example":"He held out his hand."}
+{"verb":"", "meaning":"", "example":"How long will this weather hold out?"}
+{"verb":"", "meaning":"", "example":"How much longer will they hold out without help?"}
+{"verb":"", "meaning":"", "example":"I'm sorry I'm late. I was held up in traffic."}
+{"verb":"", "meaning":"", "example":"This bank was held up twice last year."}
+{"verb":"", "meaning":"", "example":"They held him up and almost killed him."}
+{"verb":"", "meaning":"", "example":"Hurry up, we are already late! Please hurry up!"}
+{"verb":"", "meaning":"", "example":"He informed the committee about his decision to resign from his post."}
+{"verb":"", "meaning":"", "example":"He informed the police against his neighbor."}
+{"verb":"", "meaning":"", "example":"He insists on selling the house."}
+{"verb":"", "meaning":"", "example":"I insist on my plan."}
+{"verb":"", "meaning":"", "example":"I insist on telling him the truth."}
+{"verb":"", "meaning":"", "example":"She introduced him to her friends."}
+{"verb":"", "meaning":"", "example":"He introduced me to the main aspects of this profession."}
+{"verb":"", "meaning":"", "example":"He invested a lot of money, time, and effort in this business."}
+{"verb":"", "meaning":"", "example":"They invited me to dinner."}
+{"verb":"", "meaning":"", "example":"She was invited to the wedding."}
+{"verb":"", "meaning":"", "example":"His friends involved him in criminal activity."}
+{"verb":"", "meaning":"", "example":"Don't involve me in your quarrel!"}
+{"verb":"", "meaning":"", "example":"Try to involve him in sports."}
+{"verb":"", "meaning":"", "example":"Many students are involved in this project."}
+{"verb":"", "meaning":"", "example":"He is involved with some criminals."}
+{"verb":"", "meaning":"", "example":"He is deeply involved with this problem and can't think about anything else."}
+{"verb":"", "meaning":"", "example":"Judging by the look of the house, nobody lives in it."}
+{"verb":"", "meaning":"", "example":"Don't judge a book by its cover!"}
+{"verb":"", "meaning":"", "example":"You can master English pronunciation if you keep at it."}
+{"verb":"", "meaning":"", "example":"An apple a day keeps the doctor away."}
+{"verb":"", "meaning":"", "example":"What has kept you away for so long?"}
+{"verb":"", "meaning":"", "example":"Keep away from her, she is bad company."}
+{"verb":"", "meaning":"", "example":"Can the government keep the prices down?"}
+{"verb":"", "meaning":"", "example":"Can you keep the noise down?"}
+{"verb":"", "meaning":"", "example":"We must keep him from going there alone."}
+{"verb":"", "meaning":"", "example":"I tried to keep bad news from him, but he learned the truth."}
+{"verb":"", "meaning":"", "example":"Try to keep from arguing with him."}
+{"verb":"", "meaning":"", "example":"Keep off the grass!"}
+{"verb":"", "meaning":"", "example":"Keep your hands off my books!"}
+{"verb":"", "meaning":"", "example":"Please keep off this delicate subject in her presence."}
+{"verb":"", "meaning":"", "example":"Keep on working."}
+{"verb":"", "meaning":"", "example":"She kept on thinking about the problem."}
+{"verb":"", "meaning":"", "example":"Private property! Keep out!"}
+{"verb":"", "meaning":"", "example":"Keep out of this building."}
+{"verb":"", "meaning":"", "example":"I'll handle it myself, you should keep out of this."}
+{"verb":"", "meaning":"", "example":"Try to keep her out of trouble."}
+{"verb":"", "meaning":"", "example":"Keep up the good work. Keep it up."}
+{"verb":"", "meaning":"", "example":"She is always trying to keep up with the richer neighbors."}
+{"verb":"", "meaning":"", "example":"She was too fast, I couldn't keep up with her."}
+{"verb":"", "meaning":"", "example":"Somebody is knocking on the door."}
+{"verb":"", "meaning":"", "example":"Knock on wood to ward off bad luck."}
+{"verb":"", "meaning":"", "example":"He accidentally knocked over a vase."}
+{"verb":"", "meaning":"", "example":"He knocked down the man who attacked him."}
+{"verb":"", "meaning":"", "example":"Knock it off, I said, or I'll call the guards!"}
+{"verb":"", "meaning":"", "example":"The blow knocked him out."}
+{"verb":"", "meaning":"", "example":"Her beauty knocked him out."}
+{"verb":"", "meaning":"", "example":"The little boy lagged behind the older boys."}
+{"verb":"", "meaning":"", "example":"He is lagging behind the other students."}
+{"verb":"", "meaning":"", "example":"We all laughed at his jokes."}
+{"verb":"", "meaning":"", "example":"The boys laughed at the new boy."}
+{"verb":"", "meaning":"", "example":"They laughed at his accent."}
+{"verb":"", "meaning":"", "example":"The factory didn't make any profit last year, and many workers were laid off."}
+{"verb":"", "meaning":"", "example":"Lay off, dude, or I'll call the police!"}
+{"verb":"", "meaning":"", "example":"The town laid out before our eyes."}
+{"verb":"", "meaning":"", "example":"The nurse laid out the instruments before the operation."}
+{"verb":"", "meaning":"", "example":"You know the way, so you lead on, and we will follow."}
+{"verb":"", "meaning":"", "example":"They suspect that you are leading them on. You led me on!"}
+{"verb":"", "meaning":"", "example":"He led us to the director's office."}
+{"verb":"", "meaning":"", "example":"This road leads to a nice lake."}
+{"verb":"", "meaning":"", "example":"His carelessness led to a tragic accident."}
+{"verb":"", "meaning":"", "example":"He leafed through the newspaper quickly."}
+{"verb":"", "meaning":"", "example":"The train leaves for Paris at six o'clock."}
+{"verb":"", "meaning":"", "example":"He left his wife for a younger woman."}
+{"verb":"", "meaning":"", "example":"He left his job for a sailing expedition."}
+{"verb":"", "meaning":"", "example":"The train leaves from Rome at 6:30."}
+{"verb":"", "meaning":"", "example":"He left out several important facts in his report."}
+{"verb":"", "meaning":"", "example":"Leave out the dirty details, please."}
+{"verb":"", "meaning":"", "example":"She left the house to her son."}
+{"verb":"", "meaning":"", "example":"Leave it to me, I'll do it."}
+{"verb":"", "meaning":"", "example":"Leave this task to Jim."}
+{"verb":"", "meaning":"", "example":"I lent 50 dollars to a friend of mine till Saturday."}
+{"verb":"", "meaning":"", "example":"You let me down last time, don't fail me again. Don't let me down!"}
+{"verb":"", "meaning":"", "example":"Please open the door and let me in. Let her in."}
+{"verb":"", "meaning":"", "example":"Please open the door and let me out. Let her out."}
+{"verb":"", "meaning":"", "example":"Listen to the teacher."}
+{"verb":"", "meaning":"", "example":"He is listening to music."}
+{"verb":"", "meaning":"", "example":"You should listen to your parents."}
+{"verb":"", "meaning":"", "example":"She lives on Baker Street."}
+{"verb":"", "meaning":"", "example":"She lives on apples, bread, and cheese."}
+{"verb":"", "meaning":"", "example":"She lives on 500 dollars a month."}
+{"verb":"", "meaning":"", "example":"He locked himself in and can't get out."}
+{"verb":"", "meaning":"", "example":"The boy locked himself out. He had to wait outside till his mother returned."}
+{"verb":"", "meaning":"", "example":"He forgot to lock up the house before he left."}
+{"verb":"", "meaning":"", "example":"The police caught the robber and locked him up."}
+{"verb":"", "meaning":"", "example":"He longed for a real friend, but he was always alone."}
+{"verb":"", "meaning":"", "example":"A babysitter looks after the children when their mother is at work."}
+{"verb":"", "meaning":"", "example":"He came in and looked around. Can I help you? - No, thank you, I'm just looking around."}
+{"verb":"", "meaning":"", "example":"He looked at her for a long time."}
+{"verb":"", "meaning":"", "example":"He looked at the car across the street."}
+{"verb":"", "meaning":"", "example":"What are you looking at?"}
+{"verb":"", "meaning":"", "example":"I'll look at your report tomorrow."}
+{"verb":"", "meaning":"", "example":"He said hello to her, but she looked away."}
+{"verb":"", "meaning":"", "example":"Don't look away when I'm talking to you."}
+{"verb":"", "meaning":"", "example":"He looked back, but she was gone."}
+{"verb":"", "meaning":"", "example":"Looking back on my youth, I must say that we were not as career-oriented as young people are today."}
+{"verb":"", "meaning":"", "example":"Don't look down from the roof. You may feel dizzy."}
+{"verb":"", "meaning":"", "example":"He tried to see her eyes, but she looked down."}
+{"verb":"", "meaning":"", "example":"After she became rich, she began to look down on her former friends."}
+{"verb":"", "meaning":"", "example":"I'm looking for Tom Brown."}
+{"verb":"", "meaning":"", "example":"What are you looking for?"}
+{"verb":"", "meaning":"", "example":"I'm looking for my glasses."}
+{"verb":"", "meaning":"", "example":"I'm looking forward to your letter."}
+{"verb":"", "meaning":"", "example":"Where are my keys? - Look in the top drawer of the hall stand."}
+{"verb":"", "meaning":"", "example":"Look in the kitchen."}
+{"verb":"", "meaning":"", "example":"Look in your bag."}
+{"verb":"", "meaning":"", "example":"The police are looking into the matter."}
+{"verb":"", "meaning":"", "example":"You should look into this problem."}
+{"verb":"", "meaning":"", "example":"Look out! There's a big dog right behind you! Look out! The bus is coming."}
+{"verb":"", "meaning":"", "example":"He looked out of the window."}
+{"verb":"", "meaning":"", "example":"Look over your notes before the test."}
+{"verb":"", "meaning":"", "example":"I need time to look over your report."}
+{"verb":"", "meaning":"", "example":"My window looks over a large garden."}
+{"verb":"", "meaning":"", "example":"Look through this glass."}
+{"verb":"", "meaning":"", "example":"Look through this hole."}
+{"verb":"", "meaning":"", "example":"Look through your notes before the test."}
+{"verb":"", "meaning":"", "example":"Look to it that all is done as we agreed."}
+{"verb":"", "meaning":"", "example":"He put aside his newspaper and looked up."}
+{"verb":"", "meaning":"", "example":"Look up this information in the encyclopedia."}
+{"verb":"", "meaning":"", "example":"Look up the new words in the dictionary."}
+{"verb":"", "meaning":"", "example":"Look them up."}
+{"verb":"", "meaning":"", "example":"A young boy always looks up to his father or older brother."}
+{"verb":"", "meaning":"", "example":"He was a born leader."}
+{"verb":"", "meaning":"", "example":"We always looked up to him."}
+{"verb":"", "meaning":"", "example":"Her boyfriend made off as soon as her father came home."}
+{"verb":"", "meaning":"", "example":"The robbers made away with two million dollars."}
+{"verb":"", "meaning":"", "example":"After the bell, the students made for the door."}
+{"verb":"", "meaning":"", "example":"She made a new dress from a cut of silk fabric."}
+{"verb":"", "meaning":"", "example":"Cheese is made from milk."}
+{"verb":"", "meaning":"", "example":"Paper is made from wood pulp."}
+{"verb":"", "meaning":"", "example":"What do you make of it?"}
+{"verb":"", "meaning":"", "example":"I don't know what to make of his letter."}
+{"verb":"", "meaning":"", "example":"This ring is made of gold."}
+{"verb":"", "meaning":"", "example":"This house is made of brick."}
+{"verb":"", "meaning":"", "example":"This dress is made of silk."}
+{"verb":"", "meaning":"", "example":"I can't make out the number of the house in the dark."}
+{"verb":"", "meaning":"", "example":"I can't make out what he wrote."}
+{"verb":"", "meaning":"", "example":"The guest room was made over into a nursery room."}
+{"verb":"", "meaning":"", "example":"Make up a story about your summer vacation."}
+{"verb":"", "meaning":"", "example":"She made up her eyes and lips. Her face was made up heavily."}
+{"verb":"", "meaning":"", "example":"Tom and Liz had a terrible fight, but they made up yesterday."}
+{"verb":"", "meaning":"", "example":"I'm tired of fighting."}
+{"verb":"", "meaning":"", "example":"Let's make up."}
+{"verb":"", "meaning":"", "example":"The client will make up for the time and money you spend on this project."}
+{"verb":"", "meaning":"", "example":"I'm sorry I lost your Twisted Sister record, but I'll make it up to you by giving you their album of rare recordings."}
+{"verb":"", "meaning":"", "example":"These coats have been marked down by 20%."}
+{"verb":"", "meaning":"", "example":"These items have been marked up because of our growing expenses."}
+{"verb":"", "meaning":"", "example":"Mark mistakes with a red pencil. New words are marked with an asterisk."}
+{"verb":"", "meaning":"", "example":"Our new neighbors have just moved in."}
+{"verb":"", "meaning":"", "example":"They've just moved into a new house."}
+{"verb":"", "meaning":"", "example":"Life goes on; we need to move on too."}
+{"verb":"", "meaning":"", "example":"Let's move on to the third question."}
+{"verb":"", "meaning":"", "example":"They moved out; I don't know their new address."}
+{"verb":"", "meaning":"", "example":"They moved out of the house."}
+{"verb":"", "meaning":"", "example":"Can you move over a little?"}
+{"verb":"", "meaning":"", "example":"They moved to another house last year."}
+{"verb":"", "meaning":"", "example":"She was moved to tears by his story."}
+{"verb":"", "meaning":"", "example":"She is always nagging at her husband."}
+{"verb":"", "meaning":"", "example":"He was named after his famous uncle."}
+{"verb":"", "meaning":"", "example":"They named their son after his uncle."}
+{"verb":"", "meaning":"", "example":"They negotiated for the new contract, but they didn't get it."}
+{"verb":"", "meaning":"", "example":"The employees are negotiating with the management for a better benefits package."}
+{"verb":"", "meaning":"", "example":"She was nominated for the award, but it was given to another actress."}
+{"verb":"", "meaning":"", "example":"They notified the police of his crime."}
+{"verb":"", "meaning":"", "example":"The tenants were notified of the coming reconstruction a month ago."}
+{"verb":"", "meaning":"", "example":"He objects to going there tonight."}
+{"verb":"", "meaning":"", "example":"He objected to my plan."}
+{"verb":"", "meaning":"", "example":"It didn't occur to me to ask you about it."}
+{"verb":"", "meaning":"", "example":"It occurred to me that I didn't see Tom yesterday. Where was he?"}
+{"verb":"", "meaning":"", "example":"How much do they offer for the house? They offer 50,000 dollars for it."}
+{"verb":"", "meaning":"", "example":"They offered 50,000 dollars to her mother."}
+{"verb":"", "meaning":"", "example":"Don't open the door to anyone!"}
+{"verb":"", "meaning":"", "example":"This door opens into a narrow corridor."}
+{"verb":"", "meaning":"", "example":"The window opens onto a large garden."}
+{"verb":"", "meaning":"", "example":"He opened the door with a key."}
+{"verb":"", "meaning":"", "example":"The director opened the meeting with a joke."}
+{"verb":"", "meaning":"", "example":"How much do I owe for the book?"}
+{"verb":"", "meaning":"", "example":"How much do I owe you for the book?"}
+{"verb":"", "meaning":"", "example":"He owes $15,000 to the law company that represented him."}
+{"verb":"", "meaning":"", "example":"He owes his language skills to his mother who taught him French and German in his childhood."}
+{"verb":"", "meaning":"", "example":"I really owe it to her."}
+{"verb":"", "meaning":"", "example":"He owes his success in life to hard work."}
+{"verb":"", "meaning":"", "example":"She tried to pack all her clothes into one suitcase."}
+{"verb":"", "meaning":"", "example":"Students packed into the room."}
+{"verb":"", "meaning":"", "example":"I'm sick and tired of your whining! Pack it in!"}
+{"verb":"", "meaning":"", "example":"His relatives packed him off unceremoniously back to his hometown because he was not good enough for them."}
+{"verb":"", "meaning":"", "example":"We are moving next week, so we are packing up now."}
+{"verb":"", "meaning":"", "example":"Pack up your things and get out!"}
+{"verb":"", "meaning":"", "example":"It's six o'clock; it's time to pack up."}
+{"verb":"", "meaning":"", "example":"You'd better pack up smoking. This stuff will kill you."}
+{"verb":"", "meaning":"", "example":"Believe me, all your troubles will pass away."}
+{"verb":"", "meaning":"", "example":"He passed away several years ago."}
+{"verb":"", "meaning":"", "example":"She passed by me without saying hello."}
+{"verb":"", "meaning":"", "example":"We passed by the park and the church."}
+{"verb":"", "meaning":"", "example":"He passes by the name Smith."}
+{"verb":"", "meaning":"", "example":"Years pass by, people get older."}
+{"verb":"", "meaning":"", "example":"This actor could pass for a lawyer."}
+{"verb":"", "meaning":"", "example":"She passed out, call the ambulance."}
+{"verb":"", "meaning":"", "example":"The new metro line will pass over this road and railway tracks."}
+{"verb":"", "meaning":"", "example":"This is a great chance to get a nice job, you shouldn't pass it up."}
+{"verb":"", "meaning":"", "example":"He paid back all his debts."}
+{"verb":"", "meaning":"", "example":"He paid back his brother too."}
+{"verb":"", "meaning":"", "example":"You should pay him back for what he did to you."}
+{"verb":"", "meaning":"", "example":"How much did you pay for this bag?"}
+{"verb":"", "meaning":"", "example":"He paid off all his debts."}
+{"verb":"", "meaning":"", "example":"You should pay him off for what he did to you."}
+{"verb":"", "meaning":"", "example":"He was paid off to be silent."}
+{"verb":"", "meaning":"", "example":"The risk he took paid off nicely."}
+{"verb":"", "meaning":"", "example":"He must pay up, or we will take him to court. She hasn't paid up her bill."}
+{"verb":"", "meaning":"", "example":"She picked at her food, and didn't really eat anything."}
+{"verb":"", "meaning":"", "example":"They didn't solve anything. They just picked at the problem."}
+{"verb":"", "meaning":"", "example":"Why are you always picking at me?"}
+{"verb":"", "meaning":"", "example":"The teacher always picks on Tom to answer difficult questions. Why doesn't he pick on someone else?"}
+{"verb":"", "meaning":"", "example":"She picked out two scarfs for her new coat."}
+{"verb":"", "meaning":"", "example":"He bent down and picked up a penny from the ground."}
+{"verb":"", "meaning":"", "example":"I'll pick you up at seven o'clock."}
+{"verb":"", "meaning":"", "example":"The car quickly picked up speed."}
+{"verb":"", "meaning":"", "example":"Business is picking up."}
+{"verb":"", "meaning":"", "example":"The telephone is ringing, pick it up! Pick up the phone!"}
+{"verb":"", "meaning":"", "example":"You need to pick up your room."}
+{"verb":"", "meaning":"", "example":"Plug in the coffee machine, please."}
+{"verb":"", "meaning":"", "example":"Does the TV work? Is it plugged in?"}
+{"verb":"", "meaning":"", "example":"He plugged up the leak in the pipe under the sink."}
+{"verb":"", "meaning":"", "example":"Don't point a finger at people!"}
+{"verb":"", "meaning":"", "example":"Don't point at people!"}
+{"verb":"", "meaning":"", "example":"He pointed a gun at him."}
+{"verb":"", "meaning":"", "example":"All the facts we have point to his guilt."}
+{"verb":"", "meaning":"", "example":"She pointed at the possibility of leaving the company."}
+{"verb":"", "meaning":"", "example":"I'd like to point out several important facts in this report."}
+{"verb":"", "meaning":"", "example":"I prefer this song to that one."}
+{"verb":"", "meaning":"", "example":"I prefer tea to coffee."}
+{"verb":"", "meaning":"", "example":"The employees keep pressing for a pay raise and a better benefits package."}
+{"verb":"", "meaning":"", "example":"Let's talk about it later."}
+{"verb":"", "meaning":"", "example":"I'm pressed for time now."}
+{"verb":"", "meaning":"", "example":"I'm pressed for money."}
+{"verb":"", "meaning":"", "example":"His troubles are pressing on him and his family."}
+{"verb":"", "meaning":"", "example":"You shouldn't press your opinion on other people."}
+{"verb":"", "meaning":"", "example":"How can I prevent him from making this terrible mistake?"}
+{"verb":"", "meaning":"", "example":"His illness prevented him from coming to the meeting."}
+{"verb":"", "meaning":"", "example":"As a future doctor, she profited a lot from her hospital experience."}
+{"verb":"", "meaning":"", "example":"He profited greatly from his move to Rome."}
+{"verb":"", "meaning":"", "example":"The company profited greatly from the growing prices."}
+{"verb":"", "meaning":"", "example":"She provided for her son in her will."}
+{"verb":"", "meaning":"", "example":"His children are provided for."}
+{"verb":"", "meaning":"", "example":"He provided us with information, food, and money for our trip."}
+{"verb":"", "meaning":"", "example":"He has a nasty habit of prying into other people's affairs."}
+{"verb":"", "meaning":"", "example":"The dog pulled apart my new slippers."}
+{"verb":"", "meaning":"", "example":"He pulled apart all of the new toys."}
+{"verb":"", "meaning":"", "example":"She is upset because the critics pulled her book apart."}
+{"verb":"", "meaning":"", "example":"He pulled at the rope, and the bell rang."}
+{"verb":"", "meaning":"", "example":"He pulled at his cigarette in silence."}
+{"verb":"", "meaning":"", "example":"She pulled at a drink through a straw."}
+{"verb":"", "meaning":"", "example":"He wanted to hug her, but she pulled back."}
+{"verb":"", "meaning":"", "example":"I pulled him back before he stepped into the hole."}
+{"verb":"", "meaning":"", "example":"She pulled down the shades."}
+{"verb":"", "meaning":"", "example":"Several old buildings here were pulled down last year."}
+{"verb":"", "meaning":"", "example":"We pulled for our basketball team, but they lost the game anyway."}
+{"verb":"", "meaning":"", "example":"The bus pulled in at three o'clock."}
+{"verb":"", "meaning":"", "example":"They pulled him into a car and drove off."}
+{"verb":"", "meaning":"", "example":"Don't try to pull me into helping them."}
+{"verb":"", "meaning":"", "example":"The bus is pulling into the station."}
+{"verb":"", "meaning":"", "example":"She pulled off her heavy boots and put on her slippers."}
+{"verb":"", "meaning":"", "example":"The bus pulled off a minute before I came to the bus stop."}
+{"verb":"", "meaning":"", "example":"He managed to pull off this trick again."}
+{"verb":"", "meaning":"", "example":"Stop crying and pull yourself together."}
+{"verb":"", "meaning":"", "example":"He pulled out a knife and threatened to kill them."}
+{"verb":"", "meaning":"", "example":"He pulled a wallet out of his pocket."}
+{"verb":"", "meaning":"", "example":"The bus for Denver pulled out at 4:30."}
+{"verb":"", "meaning":"", "example":"The bus is pulling out of the station now."}
+{"verb":"", "meaning":"", "example":"The traffic police officer ordered us to pull over."}
+{"verb":"", "meaning":"", "example":"Pull over at the bank, please."}
+{"verb":"", "meaning":"", "example":"I hope he will pull through."}
+{"verb":"", "meaning":"", "example":"He pulled the rope up. He pulled up and got inside through the window."}
+{"verb":"", "meaning":"", "example":"How many times can you pull up?"}
+{"verb":"", "meaning":"", "example":"I was standing at the curb when a car pulled up in front of me."}
+{"verb":"", "meaning":"", "example":"Though he was tired and hungry, he pushed ahead through the woods."}
+{"verb":"", "meaning":"", "example":"He is stubbornly pushing ahead with his plan."}
+{"verb":"", "meaning":"", "example":"He pushed her aside and got into the car."}
+{"verb":"", "meaning":"", "example":"He pushed everyone aside to get this job."}
+{"verb":"", "meaning":"", "example":"She pushed away her plate and stood up."}
+{"verb":"", "meaning":"", "example":"His words pushed her away."}
+{"verb":"", "meaning":"", "example":"They pushed him into the car and drove off."}
+{"verb":"", "meaning":"", "example":"They pushed him out of the car and drove off."}
+{"verb":"", "meaning":"", "example":"Put aside your newspaper and listen to me."}
+{"verb":"", "meaning":"", "example":"She put aside her writing career to take care of her son's health."}
+{"verb":"", "meaning":"", "example":"She puts aside a hundred dollars every month for her trip to Rome."}
+{"verb":"", "meaning":"", "example":"Let's put our differences aside and work out a plan that can save our company."}
+{"verb":"", "meaning":"", "example":"Your clothes are all over this place; can you put them away?"}
+{"verb":"", "meaning":"", "example":"Put my calculator back after you use it."}
+{"verb":"", "meaning":"", "example":"Put your bag down."}
+{"verb":"", "meaning":"", "example":"He put down his pencil and closed his notebook."}
+{"verb":"", "meaning":"", "example":"I put down the figures that she dictated."}
+{"verb":"", "meaning":"", "example":"His attitude really puts me down."}
+{"verb":"", "meaning":"", "example":"She put in a paragraph about her trip to Rome."}
+{"verb":"", "meaning":"", "example":"Can I put in a word or two?"}
+{"verb":"", "meaning":"", "example":"Every week he puts in six hours of volunteer work at the hospital."}
+{"verb":"", "meaning":"", "example":"Don't put off till tomorrow what you can do today. Don't put it off."}
+{"verb":"", "meaning":"", "example":"At first she liked him, but his arrogance soon put her off."}
+{"verb":"", "meaning":"", "example":"She put on her coat and went out."}
+{"verb":"", "meaning":"", "example":"He put on ten kilograms in half a year."}
+{"verb":"", "meaning":"", "example":"She likes to put on an act."}
+{"verb":"", "meaning":"", "example":"Don't listen to him, he is just putting you on."}
+{"verb":"", "meaning":"", "example":"Put out the light before you leave."}
+{"verb":"", "meaning":"", "example":"Put out your cigarette, please."}
+{"verb":"", "meaning":"", "example":"He wasn't able to put through the reorganization that he started."}
+{"verb":"", "meaning":"", "example":"Can you put me through to 555-3247?"}
+{"verb":"", "meaning":"", "example":"I'm not going to put up with his rudeness."}
