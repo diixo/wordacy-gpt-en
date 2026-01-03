@@ -1,5 +1,4 @@
 
-import argparse
 import json
 from pathlib import Path
 
@@ -51,7 +50,11 @@ def main():
     count_encoder = get_token_encoder()
 
     total_tokens = 0
+    total_items = 0
+    max_tokens = 0
+
     path = Path(jsonl_path)
+
     with path.open("r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
@@ -73,10 +76,14 @@ def main():
             if not isinstance(val, str):
                 if skip_nonstring:
                     continue
-                val = str(val)
-            total_tokens += count_encoder(val)
+                #val = str(val)
+            count = count_encoder(val)
 
-    print("wordacy.jsonl: tokens =", total_tokens)
+            total_tokens += count
+            total_items += 1
+            max_tokens = max(max_tokens, count)
+
+    print(f"wordacy.jsonl: tokens = {total_tokens}, examples = {total_items}, max_tokens = {max_tokens}")
 
 
 if __name__ == "__main__":
