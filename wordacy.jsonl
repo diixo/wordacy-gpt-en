@@ -16,6 +16,12 @@
 {"context":"", "question":"Meaning of \"shed\" in English", "answer":"A shed is a small building used for storing things, often found in a garden or backyard."}
 
 
+{"context":"", "question":"Extract the verb pattern with placeholders (<someone>/<something>)", "answer": "feel for <someone>"}
+{"context":"", "question":"Extract the main verb meaning", "answer": ""}
+{"context":"", "question":"Extract the phrasal verb", "answer": ""}
+{"context":"", "question":"Extract the phrasal verb meaning", "answer": ""}
+
+
 {"context":"", "question":"Extract the main action verb pattern with its required argument slots (someone/something) from the example.", "example": "The burglars broke into the house through a window.", "answer": "break into something"}
 {"context":"", "question":"Extract the main action verb pattern with its required argument slots (someone/something) from the example.", "example": "She called off the meeting because of a scheduling conflict.", "answer": "call something off"}
 {"context":"", "question":"Extract the verb pattern with its required argument slots (someone/something) from the example.", "example": "The company is going to close down its factory next year.", "answer": "close something down"}
@@ -1198,189 +1204,194 @@
 {"verb":"look up", "meaning":"", "example":"Look them up."}
 {"verb":"look up", "meaning":"", "example":"A young boy always looks up to his father or older brother."}
 {"verb":"look up", "meaning":"", "example":"He was a born leader. We always looked up to him."}
-{"verb":"", "meaning":"", "example":"Her boyfriend made off as soon as her father came home."}
-{"verb":"", "meaning":"", "example":"The robbers made away with two million dollars."}
-{"verb":"", "meaning":"", "example":"After the bell, the students made for the door."}
-{"verb":"", "meaning":"", "example":"She made a new dress from a cut of silk fabric."}
-{"verb":"", "meaning":"", "example":"Cheese is made from milk."}
-{"verb":"", "meaning":"", "example":"Paper is made from wood pulp."}
-{"verb":"", "meaning":"", "example":"What do you make of it?"}
-{"verb":"", "meaning":"", "example":"I don't know what to make of his letter."}
-{"verb":"", "meaning":"", "example":"This ring is made of gold."}
-{"verb":"", "meaning":"", "example":"This house is made of brick."}
-{"verb":"", "meaning":"", "example":"This dress is made of silk."}
-{"verb":"", "meaning":"", "example":"I can't make out the number of the house in the dark."}
-{"verb":"", "meaning":"", "example":"I can't make out what he wrote."}
-{"verb":"", "meaning":"", "example":"The guest room was made over into a nursery room."}
-{"verb":"", "meaning":"", "example":"Make up a story about your summer vacation."}
-{"verb":"", "meaning":"", "example":"She made up her eyes and lips. Her face was made up heavily."}
-{"verb":"", "meaning":"", "example":"Tom and Liz had a terrible fight, but they made up yesterday."}
-{"verb":"", "meaning":"", "example":"I'm tired of fighting."}
-{"verb":"", "meaning":"", "example":"Let's make up."}
-{"verb":"", "meaning":"", "example":"The client will make up for the time and money you spend on this project."}
-{"verb":"", "meaning":"", "example":"I'm sorry I lost your Twisted Sister record, but I'll make it up to you by giving you their album of rare recordings."}
-{"verb":"", "meaning":"", "example":"These coats have been marked down by 20%."}
-{"verb":"", "meaning":"", "example":"These items have been marked up because of our growing expenses."}
-{"verb":"", "meaning":"", "example":"Mark mistakes with a red pencil. New words are marked with an asterisk."}
-{"verb":"", "meaning":"", "example":"Our new neighbors have just moved in."}
-{"verb":"", "meaning":"", "example":"They've just moved into a new house."}
-{"verb":"", "meaning":"", "example":"Life goes on; we need to move on too."}
-{"verb":"", "meaning":"", "example":"Let's move on to the third question."}
-{"verb":"", "meaning":"", "example":"They moved out; I don't know their new address."}
-{"verb":"", "meaning":"", "example":"They moved out of the house."}
-{"verb":"", "meaning":"", "example":"Can you move over a little?"}
-{"verb":"", "meaning":"", "example":"They moved to another house last year."}
-{"verb":"", "meaning":"", "example":"She was moved to tears by his story."}
-{"verb":"", "meaning":"", "example":"She is always nagging at her husband."}
-{"verb":"", "meaning":"", "example":"He was named after his famous uncle."}
-{"verb":"", "meaning":"", "example":"They named their son after his uncle."}
-{"verb":"", "meaning":"", "example":"They negotiated for the new contract, but they didn't get it."}
-{"verb":"", "meaning":"", "example":"The employees are negotiating with the management for a better benefits package."}
-{"verb":"", "meaning":"", "example":"She was nominated for the award, but it was given to another actress."}
-{"verb":"", "meaning":"", "example":"They notified the police of his crime."}
-{"verb":"", "meaning":"", "example":"The tenants were notified of the coming reconstruction a month ago."}
-{"verb":"", "meaning":"", "example":"He objects to going there tonight."}
-{"verb":"", "meaning":"", "example":"He objected to my plan."}
-{"verb":"", "meaning":"", "example":"It didn't occur to me to ask you about it."}
-{"verb":"", "meaning":"", "example":"It occurred to me that I didn't see Tom yesterday. Where was he?"}
-{"verb":"", "meaning":"", "example":"How much do they offer for the house? They offer 50,000 dollars for it."}
-{"verb":"", "meaning":"", "example":"They offered 50,000 dollars to her mother."}
-{"verb":"", "meaning":"", "example":"Don't open the door to anyone!"}
-{"verb":"", "meaning":"", "example":"This door opens into a narrow corridor."}
-{"verb":"", "meaning":"", "example":"The window opens onto a large garden."}
-{"verb":"", "meaning":"", "example":"He opened the door with a key."}
-{"verb":"", "meaning":"", "example":"The director opened the meeting with a joke."}
-{"verb":"", "meaning":"", "example":"How much do I owe for the book?"}
-{"verb":"", "meaning":"", "example":"How much do I owe you for the book?"}
-{"verb":"", "meaning":"", "example":"He owes $15,000 to the law company that represented him."}
-{"verb":"", "meaning":"", "example":"He owes his language skills to his mother who taught him French and German in his childhood."}
-{"verb":"", "meaning":"", "example":"I really owe it to her."}
-{"verb":"", "meaning":"", "example":"He owes his success in life to hard work."}
-{"verb":"", "meaning":"", "example":"She tried to pack all her clothes into one suitcase."}
-{"verb":"", "meaning":"", "example":"Students packed into the room."}
-{"verb":"", "meaning":"", "example":"I'm sick and tired of your whining! Pack it in!"}
-{"verb":"", "meaning":"", "example":"His relatives packed him off unceremoniously back to his hometown because he was not good enough for them."}
-{"verb":"", "meaning":"", "example":"We are moving next week, so we are packing up now."}
-{"verb":"", "meaning":"", "example":"Pack up your things and get out!"}
-{"verb":"", "meaning":"", "example":"It's six o'clock; it's time to pack up."}
-{"verb":"", "meaning":"", "example":"You'd better pack up smoking. This stuff will kill you."}
-{"verb":"", "meaning":"", "example":"Believe me, all your troubles will pass away."}
-{"verb":"", "meaning":"", "example":"He passed away several years ago."}
-{"verb":"", "meaning":"", "example":"She passed by me without saying hello."}
-{"verb":"", "meaning":"", "example":"We passed by the park and the church."}
-{"verb":"", "meaning":"", "example":"He passes by the name Smith."}
-{"verb":"", "meaning":"", "example":"Years pass by, people get older."}
-{"verb":"", "meaning":"", "example":"This actor could pass for a lawyer."}
-{"verb":"", "meaning":"", "example":"She passed out, call the ambulance."}
-{"verb":"", "meaning":"", "example":"The new metro line will pass over this road and railway tracks."}
-{"verb":"", "meaning":"", "example":"This is a great chance to get a nice job, you shouldn't pass it up."}
-{"verb":"", "meaning":"", "example":"He paid back all his debts."}
-{"verb":"", "meaning":"", "example":"He paid back his brother too."}
-{"verb":"", "meaning":"", "example":"You should pay him back for what he did to you."}
-{"verb":"", "meaning":"", "example":"How much did you pay for this bag?"}
-{"verb":"", "meaning":"", "example":"He paid off all his debts."}
-{"verb":"", "meaning":"", "example":"You should pay him off for what he did to you."}
-{"verb":"", "meaning":"", "example":"He was paid off to be silent."}
-{"verb":"", "meaning":"", "example":"The risk he took paid off nicely."}
-{"verb":"", "meaning":"", "example":"He must pay up, or we will take him to court. She hasn't paid up her bill."}
-{"verb":"", "meaning":"", "example":"She picked at her food, and didn't really eat anything."}
-{"verb":"", "meaning":"", "example":"They didn't solve anything. They just picked at the problem."}
-{"verb":"", "meaning":"", "example":"Why are you always picking at me?"}
-{"verb":"", "meaning":"", "example":"The teacher always picks on Tom to answer difficult questions. Why doesn't he pick on someone else?"}
-{"verb":"", "meaning":"", "example":"She picked out two scarfs for her new coat."}
-{"verb":"", "meaning":"", "example":"He bent down and picked up a penny from the ground."}
-{"verb":"", "meaning":"", "example":"I'll pick you up at seven o'clock."}
-{"verb":"", "meaning":"", "example":"The car quickly picked up speed."}
-{"verb":"", "meaning":"", "example":"Business is picking up."}
-{"verb":"", "meaning":"", "example":"The telephone is ringing, pick it up! Pick up the phone!"}
-{"verb":"", "meaning":"", "example":"You need to pick up your room."}
-{"verb":"", "meaning":"", "example":"Plug in the coffee machine, please."}
-{"verb":"", "meaning":"", "example":"Does the TV work? Is it plugged in?"}
-{"verb":"", "meaning":"", "example":"He plugged up the leak in the pipe under the sink."}
-{"verb":"", "meaning":"", "example":"Don't point a finger at people!"}
-{"verb":"", "meaning":"", "example":"Don't point at people!"}
-{"verb":"", "meaning":"", "example":"He pointed a gun at him."}
-{"verb":"", "meaning":"", "example":"All the facts we have point to his guilt."}
-{"verb":"", "meaning":"", "example":"She pointed at the possibility of leaving the company."}
-{"verb":"", "meaning":"", "example":"I'd like to point out several important facts in this report."}
-{"verb":"", "meaning":"", "example":"I prefer this song to that one."}
-{"verb":"", "meaning":"", "example":"I prefer tea to coffee."}
-{"verb":"", "meaning":"", "example":"The employees keep pressing for a pay raise and a better benefits package."}
-{"verb":"", "meaning":"", "example":"Let's talk about it later."}
-{"verb":"", "meaning":"", "example":"I'm pressed for time now."}
-{"verb":"", "meaning":"", "example":"I'm pressed for money."}
-{"verb":"", "meaning":"", "example":"His troubles are pressing on him and his family."}
-{"verb":"", "meaning":"", "example":"You shouldn't press your opinion on other people."}
-{"verb":"", "meaning":"", "example":"How can I prevent him from making this terrible mistake?"}
-{"verb":"", "meaning":"", "example":"His illness prevented him from coming to the meeting."}
-{"verb":"", "meaning":"", "example":"As a future doctor, she profited a lot from her hospital experience."}
-{"verb":"", "meaning":"", "example":"He profited greatly from his move to Rome."}
-{"verb":"", "meaning":"", "example":"The company profited greatly from the growing prices."}
-{"verb":"", "meaning":"", "example":"She provided for her son in her will."}
-{"verb":"", "meaning":"", "example":"His children are provided for."}
-{"verb":"", "meaning":"", "example":"He provided us with information, food, and money for our trip."}
-{"verb":"", "meaning":"", "example":"He has a nasty habit of prying into other people's affairs."}
-{"verb":"", "meaning":"", "example":"The dog pulled apart my new slippers."}
-{"verb":"", "meaning":"", "example":"He pulled apart all of the new toys."}
-{"verb":"", "meaning":"", "example":"She is upset because the critics pulled her book apart."}
-{"verb":"", "meaning":"", "example":"He pulled at the rope, and the bell rang."}
-{"verb":"", "meaning":"", "example":"He pulled at his cigarette in silence."}
-{"verb":"", "meaning":"", "example":"She pulled at a drink through a straw."}
-{"verb":"", "meaning":"", "example":"He wanted to hug her, but she pulled back."}
-{"verb":"", "meaning":"", "example":"I pulled him back before he stepped into the hole."}
-{"verb":"", "meaning":"", "example":"She pulled down the shades."}
-{"verb":"", "meaning":"", "example":"Several old buildings here were pulled down last year."}
-{"verb":"", "meaning":"", "example":"We pulled for our basketball team, but they lost the game anyway."}
-{"verb":"", "meaning":"", "example":"The bus pulled in at three o'clock."}
-{"verb":"", "meaning":"", "example":"They pulled him into a car and drove off."}
-{"verb":"", "meaning":"", "example":"Don't try to pull me into helping them."}
-{"verb":"", "meaning":"", "example":"The bus is pulling into the station."}
-{"verb":"", "meaning":"", "example":"She pulled off her heavy boots and put on her slippers."}
-{"verb":"", "meaning":"", "example":"The bus pulled off a minute before I came to the bus stop."}
-{"verb":"", "meaning":"", "example":"He managed to pull off this trick again."}
-{"verb":"", "meaning":"", "example":"Stop crying and pull yourself together."}
-{"verb":"", "meaning":"", "example":"He pulled out a knife and threatened to kill them."}
-{"verb":"", "meaning":"", "example":"He pulled a wallet out of his pocket."}
-{"verb":"", "meaning":"", "example":"The bus for Denver pulled out at 4:30."}
-{"verb":"", "meaning":"", "example":"The bus is pulling out of the station now."}
-{"verb":"", "meaning":"", "example":"The traffic police officer ordered us to pull over."}
-{"verb":"", "meaning":"", "example":"Pull over at the bank, please."}
-{"verb":"", "meaning":"", "example":"I hope he will pull through."}
-{"verb":"", "meaning":"", "example":"He pulled the rope up. He pulled up and got inside through the window."}
-{"verb":"", "meaning":"", "example":"How many times can you pull up?"}
-{"verb":"", "meaning":"", "example":"I was standing at the curb when a car pulled up in front of me."}
-{"verb":"", "meaning":"", "example":"Though he was tired and hungry, he pushed ahead through the woods."}
-{"verb":"", "meaning":"", "example":"He is stubbornly pushing ahead with his plan."}
-{"verb":"", "meaning":"", "example":"He pushed her aside and got into the car."}
-{"verb":"", "meaning":"", "example":"He pushed everyone aside to get this job."}
-{"verb":"", "meaning":"", "example":"She pushed away her plate and stood up."}
-{"verb":"", "meaning":"", "example":"His words pushed her away."}
-{"verb":"", "meaning":"", "example":"They pushed him into the car and drove off."}
-{"verb":"", "meaning":"", "example":"They pushed him out of the car and drove off."}
-{"verb":"", "meaning":"", "example":"Put aside your newspaper and listen to me."}
-{"verb":"", "meaning":"", "example":"She put aside her writing career to take care of her son's health."}
-{"verb":"", "meaning":"", "example":"She puts aside a hundred dollars every month for her trip to Rome."}
-{"verb":"", "meaning":"", "example":"Let's put our differences aside and work out a plan that can save our company."}
-{"verb":"", "meaning":"", "example":"Your clothes are all over this place; can you put them away?"}
-{"verb":"", "meaning":"", "example":"Put my calculator back after you use it."}
-{"verb":"", "meaning":"", "example":"Put your bag down."}
-{"verb":"", "meaning":"", "example":"He put down his pencil and closed his notebook."}
-{"verb":"", "meaning":"", "example":"I put down the figures that she dictated."}
-{"verb":"", "meaning":"", "example":"His attitude really puts me down."}
-{"verb":"", "meaning":"", "example":"She put in a paragraph about her trip to Rome."}
-{"verb":"", "meaning":"", "example":"Can I put in a word or two?"}
-{"verb":"", "meaning":"", "example":"Every week he puts in six hours of volunteer work at the hospital."}
-{"verb":"", "meaning":"", "example":"Don't put off till tomorrow what you can do today. Don't put it off."}
-{"verb":"", "meaning":"", "example":"At first she liked him, but his arrogance soon put her off."}
-{"verb":"", "meaning":"", "example":"She put on her coat and went out."}
-{"verb":"", "meaning":"", "example":"He put on ten kilograms in half a year."}
-{"verb":"", "meaning":"", "example":"She likes to put on an act."}
-{"verb":"", "meaning":"", "example":"Don't listen to him, he is just putting you on."}
-{"verb":"", "meaning":"", "example":"Put out the light before you leave."}
-{"verb":"", "meaning":"", "example":"Put out your cigarette, please."}
-{"verb":"", "meaning":"", "example":"He wasn't able to put through the reorganization that he started."}
-{"verb":"", "meaning":"", "example":"Can you put me through to 555-3247?"}
-{"verb":"", "meaning":"", "example":"I'm not going to put up with his rudeness."}
+{"verb":"make off", "meaning":"", "example":"Her boyfriend made off as soon as her father came home."}
+{"verb":"make away", "meaning":"", "example":"The robbers made away with two million dollars."}
+{"verb":"make for", "meaning":"", "example":"After the bell, the students made for the door."}
+{"verb":"make from", "meaning":"", "example":"She made a new dress from a cut of silk fabric."}
+{"verb":"make from", "meaning":"", "example":"Cheese is made from milk."}
+{"verb":"make from", "meaning":"", "example":"Paper is made from wood pulp."}
+{"verb":"make of", "meaning":"", "example":"What do you make of it?"}
+{"verb":"make of", "meaning":"", "example":"I don't know what to make of his letter."}
+{"verb":"make of", "meaning":"", "example":"This ring is made of gold."}
+{"verb":"make of", "meaning":"", "example":"This house is made of brick."}
+{"verb":"make of", "meaning":"", "example":"This dress is made of silk."}
+{"verb":"make out", "meaning":"", "example":"I can't make out the number of the house in the dark."}
+{"verb":"make out", "meaning":"", "example":"I can't make out what he wrote."}
+{"verb":"make over", "meaning":"", "example":"The guest room was made over into a nursery room."}
+{"verb":"make up", "meaning":"", "example":"Make up a story about your summer vacation."}
+{"verb":"make up", "meaning":"", "example":"She made up her eyes and lips."}
+{"verb":"make up", "meaning":"", "example":"Her face was made up heavily."}
+{"verb":"make up", "meaning":"", "example":"Tom and Liz had a terrible fight, but they made up yesterday."}
+{"verb":"make up", "meaning":"", "example":"I'm tired of fighting. Let's make up."}
+{"verb":"make up", "meaning":"", "example":"The client will make up for the time and money you spend on this project."}
+{"verb":"make up", "meaning":"", "example":"I'm sorry I lost your Twisted Sister record, but I'll make it up to you by giving you their album of rare recordings."}
+{"verb":"mark down", "meaning":"", "example":"These coats have been marked down by 20%."}
+{"verb":"mark up", "meaning":"", "example":"These items have been marked up because of our growing expenses."}
+{"verb":"mark with", "meaning":"", "example":"Mark mistakes with a red pencil. New words are marked with an asterisk."}
+{"verb":"move in", "meaning":"", "example":"Our new neighbors have just moved in."}
+{"verb":"move into", "meaning":"", "example":"They've just moved into a new house."}
+{"verb":"move on", "meaning":"", "example":"Life goes on; we need to move on too."}
+{"verb":"move on", "meaning":"", "example":"Let's move on to the third question."}
+{"verb":"move out", "meaning":"", "example":"They moved out; I don't know their new address."}
+{"verb":"move out", "meaning":"", "example":"They moved out of the house."}
+{"verb":"move over", "meaning":"", "example":"Can you move over a little?"}
+{"verb":"move to", "meaning":"", "example":"They moved to another house last year."}
+{"verb":"move to", "meaning":"", "example":"She was moved to tears by his story."}
+{"verb":"nag at", "meaning":"", "example":"She is always nagging at her husband."}
+{"verb":"name after", "meaning":"", "example":"He was named after his famous uncle."}
+{"verb":"name after", "meaning":"", "example":"They named their son after his uncle."}
+{"verb":"negotiate for", "meaning":"", "example":"They negotiated for the new contract, but they didn't get it."}
+{"verb":"negotiate for", "meaning":"", "example":"The employees are negotiating with the management for a better benefits package."}
+{"verb":"nominate for", "meaning":"", "example":"She was nominated for the award, but it was given to another actress."}
+{"verb":"notify of", "meaning":"", "example":"They notified the police of his crime."}
+{"verb":"notify of", "meaning":"", "example":"The tenants were notified of the coming reconstruction a month ago."}
+{"verb":"object to", "meaning":"", "example":"He objects to going there tonight."}
+{"verb":"object to", "meaning":"", "example":"He objected to my plan."}
+{"verb":"occur to", "meaning":"", "example":"It didn't occur to me to ask you about it."}
+{"verb":"occur to", "meaning":"", "example":"It occurred to me that I didn't see Tom yesterday. Where was he?"}
+{"verb":"offer for", "meaning":"", "example":"How much do they offer for the house?"}
+{"verb":"offer for", "meaning":"", "example":"They offer 50,000 dollars for it."}
+{"verb":"offer to", "meaning":"", "example":"They offered 50,000 dollars to her mother."}
+{"verb":"open to", "meaning":"", "example":"Don't open the door to anyone!"}
+{"verb":"open into", "meaning":"", "example":"This door opens into a narrow corridor."}
+{"verb":"open onto", "meaning":"", "example":"The window opens onto a large garden."}
+{"verb":"open with", "meaning":"", "example":"He opened the door with a key."}
+{"verb":"open with", "meaning":"", "example":"The director opened the meeting with a joke."}
+{"verb":"owe for", "meaning":"", "example":"How much do I owe for the book?"}
+{"verb":"owe for", "meaning":"", "example":"How much do I owe you for the book?"}
+{"verb":"owe to", "meaning":"", "example":"He owes $15,000 to the law company that represented him."}
+{"verb":"owe to", "meaning":"", "example":"He owes his language skills to his mother who taught him French and German in his childhood."}
+{"verb":"owe to", "meaning":"", "example":"I really owe it to her."}
+{"verb":"owe to", "meaning":"", "example":"He owes his success in life to hard work."}
+{"verb":"pack into", "meaning":"", "example":"She tried to pack all her clothes into one suitcase."}
+{"verb":"pack into", "meaning":"", "example":"Students packed into the room."}
+{"verb":"pack in", "meaning":"", "example":"I'm sick and tired of your whining! Pack it in!"}
+{"verb":"pack off", "meaning":"", "example":"His relatives packed him off unceremoniously back to his hometown because he was not good enough for them."}
+{"verb":"pack up", "meaning":"", "example":"We are moving next week, so we are packing up now."}
+{"verb":"pack up", "meaning":"", "example":"Pack up your things and get out!"}
+{"verb":"pack up", "meaning":"", "example":"It's six o'clock; it's time to pack up."}
+{"verb":"pack up", "meaning":"", "example":"You'd better pack up smoking. This stuff will kill you."}
+{"verb":"pass away", "meaning":"", "example":"Believe me, all your troubles will pass away."}
+{"verb":"pass away", "meaning":"", "example":"He passed away several years ago."}
+{"verb":"pass by", "meaning":"", "example":"She passed by me without saying hello."}
+{"verb":"pass by", "meaning":"", "example":"We passed by the park and the church."}
+{"verb":"pass by", "meaning":"", "example":"He passes by the name Smith."}
+{"verb":"pass by", "meaning":"", "example":"Years pass by, people get older."}
+{"verb":"pass for", "meaning":"", "example":"This actor could pass for a lawyer."}
+{"verb":"pass out", "meaning":"", "example":"She passed out, call the ambulance."}
+{"verb":"pass over", "meaning":"", "example":"The new metro line will pass over this road and railway tracks."}
+{"verb":"pass up", "meaning":"", "example":"This is a great chance to get a nice job, you shouldn't pass it up."}
+{"verb":"pay back", "meaning":"", "example":"He paid back all his debts."}
+{"verb":"pay back", "meaning":"", "example":"He paid back his brother too."}
+{"verb":"pay back", "meaning":"", "example":"You should pay him back for what he did to you."}
+{"verb":"pay for", "meaning":"", "example":"How much did you pay for this bag?"}
+{"verb":"pay off", "meaning":"", "example":"He paid off all his debts."}
+{"verb":"pay off", "meaning":"", "example":"You should pay him off for what he did to you."}
+{"verb":"pay off", "meaning":"", "example":"He was paid off to be silent."}
+{"verb":"pay off", "meaning":"", "example":"The risk he took paid off nicely."}
+{"verb":"pay up", "meaning":"", "example":"He must pay up, or we will take him to court."}
+{"verb":"pay up", "meaning":"", "example":"She hasn't paid up her bill."}
+{"verb":"pick at", "meaning":"", "example":"She picked at her food, and didn't really eat anything."}
+{"verb":"pick at", "meaning":"", "example":"They didn't solve anything. They just picked at the problem."}
+{"verb":"pick at", "meaning":"", "example":"Why are you always picking at me?"}
+{"verb":"pick on", "meaning":"", "example":"The teacher always picks on Tom to answer difficult questions. Why doesn't he pick on someone else?"}
+{"verb":"pick out", "meaning":"", "example":"She picked out two scarfs for her new coat."}
+{"verb":"pick up", "meaning":"", "example":"He bent down and picked up a penny from the ground."}
+{"verb":"pick up", "meaning":"", "example":"I'll pick you up at seven o'clock."}
+{"verb":"pick up", "meaning":"", "example":"The car quickly picked up speed."}
+{"verb":"pick up", "meaning":"", "example":"Business is picking up."}
+{"verb":"pick up", "meaning":"", "example":"The telephone is ringing, pick it up! Pick up the phone!"}
+{"verb":"pick up", "meaning":"", "example":"You need to pick up your room."}
+{"verb":"plug in", "meaning":"", "example":"Plug in the coffee machine, please."}
+{"verb":"plug in", "meaning":"", "example":"Does the TV work? Is it plugged in?"}
+{"verb":"plug up", "meaning":"", "example":"He plugged up the leak in the pipe under the sink."}
+{"verb":"point at", "meaning":"", "example":"Don't point a finger at people!"}
+{"verb":"point at", "meaning":"", "example":"Don't point at people!"}
+{"verb":"point at", "meaning":"", "example":"He pointed a gun at him."}
+{"verb":"point to", "meaning":"", "example":"All the facts we have point to his guilt."}
+{"verb":"point to", "meaning":"", "example":"She pointed at the possibility of leaving the company."}
+{"verb":"point out", "meaning":"", "example":"I'd like to point out several important facts in this report."}
+{"verb":"prefer to", "meaning":"", "example":"I prefer this song to that one."}
+{"verb":"prefer to", "meaning":"", "example":"I prefer tea to coffee."}
+{"verb":"press for", "meaning":"", "example":"The employees keep pressing for a pay raise and a better benefits package."}
+{"verb":"press for", "meaning":"", "example":"Let's talk about it later. I'm pressed for time now."}
+{"verb":"press for", "meaning":"", "example":"I'm pressed for money."}
+{"verb":"press on", "meaning":"", "example":"His troubles are pressing on him and his family."}
+{"verb":"press on", "meaning":"", "example":"You shouldn't press your opinion on other people."}
+{"verb":"prevent from", "meaning":"", "example":"How can I prevent him from making this terrible mistake?"}
+{"verb":"prevent from", "meaning":"", "example":"His illness prevented him from coming to the meeting."}
+{"verb":"profit from", "meaning":"", "example":"As a future doctor, she profited a lot from her hospital experience."}
+{"verb":"profit from", "meaning":"", "example":"He profited greatly from his move to Rome."}
+{"verb":"profit from", "meaning":"", "example":"The company profited greatly from the growing prices."}
+{"verb":"provide for", "meaning":"", "example":"She provided for her son in her will."}
+{"verb":"provide for", "meaning":"", "example":"His children are provided for."}
+{"verb":"provide us", "meaning":"", "example":"He provided us with information, food, and money for our trip."}
+{"verb":"pry into", "meaning":"", "example":"He has a nasty habit of prying into other people's affairs."}
+{"verb":"pull apart", "meaning":"", "example":"The dog pulled apart my new slippers."}
+{"verb":"pull apart", "meaning":"", "example":"He pulled apart all of the new toys."}
+{"verb":"pull apart", "meaning":"", "example":"She is upset because the critics pulled her book apart."}
+{"verb":"pull at", "meaning":"", "example":"He pulled at the rope, and the bell rang."}
+{"verb":"pull at", "meaning":"", "example":"He pulled at his cigarette in silence."}
+{"verb":"pull at", "meaning":"", "example":"She pulled at a drink through a straw."}
+{"verb":"pull back", "meaning":"", "example":"He wanted to hug her, but she pulled back."}
+{"verb":"pull back", "meaning":"", "example":"I pulled him back before he stepped into the hole."}
+{"verb":"pull down", "meaning":"", "example":"She pulled down the shades."}
+{"verb":"pull down", "meaning":"", "example":"Several old buildings here were pulled down last year."}
+{"verb":"pull for", "meaning":"", "example":"We pulled for our basketball team, but they lost the game anyway."}
+{"verb":"pull in", "meaning":"", "example":"The bus pulled in at three o'clock."}
+{"verb":"pull into", "meaning":"", "example":"They pulled him into a car and drove off."}
+{"verb":"pull into", "meaning":"", "example":"Don't try to pull me into helping them."}
+{"verb":"pull into", "meaning":"", "example":"The bus is pulling into the station."}
+{"verb":"pull off", "meaning":"", "example":"She pulled off her heavy boots and put on her slippers."}
+{"verb":"pull off", "meaning":"", "example":"The bus pulled off a minute before I came to the bus stop."}
+{"verb":"pull off", "meaning":"", "example":"He managed to pull off this trick again."}
+{"verb":"pull yourself", "meaning":"", "example":"Stop crying and pull yourself together."}
+{"verb":"pull herself", "meaning":"", "example":"She stopped screaming and pulled herself together."}
+{"verb":"pull oneself", "meaning":"", "example":"If one does not pull oneself together."}
+{"verb":"pull out", "meaning":"", "example":"He pulled out a knife and threatened to kill them."}
+{"verb":"pull out", "meaning":"", "example":"He pulled a wallet out of his pocket."}
+{"verb":"pull out", "meaning":"", "example":"The bus for Denver pulled out at 4:30."}
+{"verb":"pull out", "meaning":"", "example":"The bus is pulling out of the station now."}
+{"verb":"pull over", "meaning":"", "example":"The traffic police officer ordered us to pull over."}
+{"verb":"pull over", "meaning":"", "example":"Pull over at the bank, please."}
+{"verb":"pull through", "meaning":"", "example":"I hope he will pull through."}
+{"verb":"pull up", "meaning":"", "example":"He pulled the rope up."}
+{"verb":"pull up", "meaning":"", "example":"He pulled up and got inside through the window."}
+{"verb":"pull up", "meaning":"", "example":"How many times can you pull up?"}
+{"verb":"pull up", "meaning":"", "example":"I was standing at the curb when a car pulled up in front of me."}
+{"verb":"push ahead", "meaning":"", "example":"Though he was tired and hungry, he pushed ahead through the woods."}
+{"verb":"push ahead", "meaning":"", "example":"He is stubbornly pushing ahead with his plan."}
+{"verb":"push aside", "meaning":"", "example":"He pushed her aside and got into the car."}
+{"verb":"push aside", "meaning":"", "example":"He pushed everyone aside to get this job."}
+{"verb":"push away", "meaning":"", "example":"She pushed away her plate and stood up."}
+{"verb":"push away", "meaning":"", "example":"His words pushed her away."}
+{"verb":"push into", "meaning":"", "example":"They pushed him into the car and drove off."}
+{"verb":"push out", "meaning":"", "example":"They pushed him out of the car and drove off."}
+{"verb":"put aside", "meaning":"", "example":"Put aside your newspaper and listen to me."}
+{"verb":"put aside", "meaning":"", "example":"She put aside her writing career to take care of her son's health."}
+{"verb":"put aside", "meaning":"", "example":"She puts aside a hundred dollars every month for her trip to Rome."}
+{"verb":"put aside", "meaning":"", "example":"Let's put our differences aside and work out a plan that can save our company."}
+{"verb":"put away", "meaning":"", "example":"Your clothes are all over this place; can you put them away?"}
+{"verb":"put back", "meaning":"", "example":"Put my calculator back after you use it."}
+{"verb":"put down", "meaning":"", "example":"Put your bag down."}
+{"verb":"put down", "meaning":"", "example":"He put down his pencil and closed his notebook."}
+{"verb":"put down", "meaning":"", "example":"I put down the figures that she dictated."}
+{"verb":"put down", "meaning":"", "example":"His attitude really puts me down."}
+{"verb":"put in", "meaning":"", "example":"She put in a paragraph about her trip to Rome."}
+{"verb":"put in", "meaning":"", "example":"Can I put in a word or two?"}
+{"verb":"put in", "meaning":"", "example":"Every week he puts in six hours of volunteer work at the hospital."}
+{"verb":"put off", "meaning":"", "example":"Don't put off till tomorrow what you can do today."}
+{"verb":"put off", "meaning":"", "example":"Don't put it off."}
+{"verb":"put off", "meaning":"", "example":"At first she liked him, but his arrogance soon put her off."}
+{"verb":"put on", "meaning":"", "example":"She put on her coat and went out."}
+{"verb":"put on", "meaning":"", "example":"He put on ten kilograms in half a year."}
+{"verb":"put on", "meaning":"", "example":"She likes to put on an act."}
+{"verb":"put on", "meaning":"", "example":"Don't listen to him, he is just putting you on."}
+{"verb":"put out", "meaning":"", "example":"Put out the light before you leave."}
+{"verb":"put out", "meaning":"", "example":"Put out your cigarette, please."}
+{"verb":"put through", "meaning":"", "example":"He wasn't able to put through the reorganization that he started."}
+{"verb":"put through", "meaning":"", "example":"Can you put me through to 555-3247?"}
+{"verb":"put up", "meaning":"", "example":"I'm not going to put up with his rudeness."}
 
 
 {"verb":"", "meaning":"", "example":"Phrasal Verbs: main words list from Q to Z"}
@@ -1910,335 +1921,335 @@
 {"verb":"", "meaning":"", "example":"The plane zoomed up and disappeared in the clouds."}
 
 
-{"verb":"", "meaning":"definition of \"vocabulary\"", "example":"The vocabulary is a list of words."}
+{"verb":"", "definition":"definition of \"vocabulary\"", "example":"vocabulary is a list of words."}
 
 
-{"verb": "", "meaning": "definition of \"exchange student\"", "example": "exchange student is a student studying in another area or country."}
-{"verb": "", "meaning": "definition of \"electrician\"", "example": "electrician is someone whose job is to put in or repair electrical equipment."}
-{"verb": "", "meaning": "definition of \"science fiction\"", "example": "science fiction is stories that take place in an imagined future or in other parts of the universe."}
-{"verb": "", "meaning": "definition of \"shower\"", "example": "shower is a piece of bathroom equipment that produces a flow of water that you stand under to wash yourself."}
-{"verb": "", "meaning": "definition of \"airport\"", "example": "airport is a place where passengers get on and off aircraft."}
-{"verb": "", "meaning": "definition of \"wad of cash\"", "example": "wad of cash is a pile of paper money."}
-{"verb": "", "meaning": "definition of \"head for (slang)\"", "example": "head for (slang) is go to."}
-{"verb": "", "meaning": "definition of \"nervous\"", "example": "nervous is worried or frightened."}
-{"verb": "", "meaning": "definition of \"check in (for a flight)\"", "example": "check in (for a flight) is to tell the people at an airport that you have arrived."}
-{"verb": "", "meaning": "definition of \"relaxed\"", "example": "relaxed is feeling calm, comfortable and not worried."}
-{"verb": "", "meaning": "definition of \"hug\"", "example": "hug is to put your arms around someone and hold them."}
-{"verb": "", "meaning": "definition of \"take off\"", "example": "take off is when an aeroplane leaves the ground and goes up into the air."}
-{"verb": "", "meaning": "definition of \"shy\"", "example": "shy is nervous and not confident when meeting and speaking to people."}
-{"verb": "", "meaning": "definition of \"quiet\"", "example": "quiet is having or making little or no noise."}
-{"verb": "", "meaning": "definition of \"flat\"", "example": "flat is a set of rooms that someone lives in, and which are part of a larger building."}
-{"verb": "", "meaning": "definition of \"taxi\"", "example": "taxi is a car with a driver that you pay to take you from one place to another."}
-{"verb": "", "meaning": "definition of \"restaurant\"", "example": "restaurant is a place where you can buy and eat a meal."}
-{"verb": "", "meaning": "definition of \"paella\"", "example": "paella is a dish made of chicken, rice, seafood, vegetables and seasonings."}
-{"verb": "", "meaning": "definition of \"station\"", "example": "station is a building where trains, buses, or other vehicles stop to allow people to get on and off."}
-{"verb": "", "meaning": "definition of \"packed\"", "example": "packed is very full of something."}
-{"verb": "", "meaning": "definition of \"comfortable\"", "example": "comfortable is happy and relaxed (about doing something)."}
-{"verb": "", "meaning": "definition of \"mobile (phone)\"", "example": "mobile (phone) is a telephone that you carry with you."}
-{"verb": "", "meaning": "definition of \"tired\"", "example": "tired is feeling that you need a rest."}
-{"verb": "", "meaning": "definition of \"wake up\"", "example": "wake up is to stop sleeping."}
-{"verb": "", "meaning": "definition of \"express bus\"", "example": "express bus is a large vehicle with a lot of seats for passengers that travels quickly between big cities, without stopping."}
-{"verb": "", "meaning": "definition of \"(mobile) battery has died\"", "example": "(mobile) battery has died is no longer power to run a device or telephone."}
-{"verb": "", "meaning": "definition of \"phone box\"", "example": "phone box is a small booth or box, usually on a street, with a telephone you can pay to use."}
-{"verb": "", "meaning": "definition of \"menu\"", "example": "menu is a list of the food available in a restaurant."}
-{"verb": "", "meaning": "definition of \"madly\"", "example": "madly is in an excited way."}
-{"verb": "", "meaning": "definition of \"embarrassed\"", "example": "embarrassed is feeling ashamed or stupid."}
-{"verb": "", "meaning": "definition of \"It's all too much. (Something)\"", "example": "It's all too much. (Something) is more than a person can handle or manage ironic surprising, often because it is the opposite of what is expected."}
-{"verb": "", "meaning": "definition of \"reality sinks in (expression)\"", "example": "reality sinks in (expression) is when you one begin to understand the truth of what is happening."}
-{"verb": "", "meaning": "definition of \"crazy\"", "example": "crazy is out of control or unexpected, very strange, surprising, chaotic or not sensible."}
-{"verb": "", "meaning": "definition of \"entrance\"", "example": "entrance is a part of a building where you go in."}
-{"verb": "", "meaning": "definition of \"solution\"", "example": "solution is an answer to a problem or a question."}
-{"verb": "", "meaning": "definition of \"lorry\"", "example": "lorry is a large vehicle for carrying heavy goods by road."}
-{"verb": "", "meaning": "definition of \"engine\"", "example": "engine is a part of a machine that uses energy to produce movement."}
-{"verb": "", "meaning": "definition of \"motorway\"", "example": "motorway is a wide road for vehicles travelling fast over long distances."}
-{"verb": "", "meaning": "definition of \"silence\"", "example": "silence is when it is completely quiet and no sound can be heard."}
-{"verb": "", "meaning": "definition of \"with concern\"", "example": "with concern is in a worried or unsure way."}
-{"verb": "", "meaning": "definition of \"hide\"", "example": "hide is to be in a place where people cannot see or find something or someone easily."}
-{"verb": "", "meaning": "definition of \"lucky when\"", "example": "lucky when is something good happens to you by chance."}
-{"verb": "", "meaning": "definition of \"coincidence\"", "example": "coincidence is when two things happen at the same time by chance."}
-{"verb": "", "meaning": "definition of \"stretch (one's) legs\"", "example": "stretch (one's) legs is to move around, usually after being still for a time."}
-{"verb": "", "meaning": "definition of \"dinner\"", "example": "dinner is a main meal in the evening or in the middle of the day."}
-{"verb": "", "meaning": "definition of \"receptionist\"", "example": "receptionist is a person that sits at the entrance to an office or building and directs visitors."}
-{"verb": "", "meaning": "definition of \"lift\"", "example": "lift is a small box that takes people up and down in a building."}
-{"verb": "", "meaning": "definition of \"fate\"", "example": "fate is an unknown and uncontrollable power that seems to make things happen."}
-{"verb": "", "meaning": "definition of \"be taken aback\"", "example": "be taken aback is to be surprised, often in an unpleasant or unwanted way."}
-{"verb": "", "meaning": "definition of \"impossible\"", "example": "impossible is not possible, not able to do or happen."}
-{"verb": "", "meaning": "definition of \"realize\"", "example": "realize is to know and understand something that you did not know or understand before."}
-{"verb": "", "meaning": "definition of \"awkwardly\"", "example": "awkwardly is in an odd or uncomfortable way."}
-{"verb": "", "meaning": "definition of \"celebration\"", "example": "celebration is a happy event or party."}
-{"verb": "", "meaning": "definition of \"burst out\"", "example": "burst out is laughing to suddenly start to laugh."}
-{"verb": "", "meaning": "definition of \"lake\"", "example": "lake is a large area of water with land all around it."}
-{"verb": "", "meaning": "definition of \"mild weather\"", "example": "mild weather is a weather that is quite warm and comfortable."}
-{"verb": "", "meaning": "definition of \"hiker\"", "example": "hiker is a person who enjoys long walks in the countryside."}
-{"verb": "", "meaning": "definition of \"backpack\"", "example": "backpack is a small bag used to carry things around on the back."}
-{"verb": "", "meaning": "definition of \"wood\"", "example": "wood is an area where a lot of trees grow closely together."}
-{"verb": "", "meaning": "definition of \"excursion\"", "example": "excursion is a trip or outing."}
-{"verb": "", "meaning": "definition of \"shout\"", "example": "shout is to say something very loudly or to make a loud noise with your voice."}
-{"verb": "", "meaning": "definition of \"path\"", "example": "path is a narrow route across a piece of ground that people walk or ride a bicycle along."}
-{"verb": "", "meaning": "definition of \"split\"", "example": "split is to go in two different directions."}
-{"verb": "", "meaning": "definition of \"creature\"", "example": "creature is any living thing that is not a plant."}
-{"verb": "", "meaning": "definition of \"strange\"", "example": "strange is unusual."}
-{"verb": "", "meaning": "definition of \"safe\"", "example": "safe is unlikely to be harmed or hurt."}
-{"verb": "", "meaning": "definition of \"ugly\"", "example": "ugly is not pleasant to look at."}
-{"verb": "", "meaning": "definition of \"boat\"", "example": "boat is a vehicle for travelling over water."}
-{"verb": "", "meaning": "definition of \"shore\"", "example": "shore is the area of land next to the sea or next to a lake."}
-{"verb": "", "meaning": "definition of \"\"Are you kidding?\"\"", "example": "\"Are you kidding?\" is a question asked to express disbelief or check if someone is joking."}
-{"verb": "", "meaning": "definition of \"row\"", "example": "row is to pull a boat through water using long wooden sticks."}
-{"verb": "", "meaning": "definition of \"explore\"", "example": "explore is to travel around a place and find out what it is like."}
-{"verb": "", "meaning": "definition of \"dust\"", "example": "dust is a powder of dirt on a surface or in the air."}
-{"verb": "", "meaning": "definition of \"footprint\"", "example": "footprint is a mark that a foot leaves on the ground."}
-{"verb": "", "meaning": "definition of \"disappear\"", "example": "disappear is to go somewhere and not be seen or found."}
-{"verb": "", "meaning": "definition of \"\"No way!\"\"", "example": "\"No way!\" is a slang expression used to show surprise or disbelief."}
-{"verb": "", "meaning": "definition of \"split up\"", "example": "split up is to divide a group of people into smaller groups or individuals."}
-{"verb": "", "meaning": "definition of \"imagine\"", "example": "imagine is to form a picture of someone or something in your mind."}
-{"verb": "", "meaning": "definition of \"thicket\"", "example": "thicket is a small group of trees."}
-{"verb": "", "meaning": "definition of \"mobile\"", "example": "mobile is a telephone device that you carry with you."}
-{"verb": "", "meaning": "definition of \"mobile service\"", "example": "mobile service is a service the system that allows you to use a mobile telephone."}
-{"verb": "", "meaning": "definition of \"joke\"", "example": "joke is something said or done to be funny."}
-{"verb": "", "meaning": "definition of \"think things through\"", "example": "think things through is to consider or work through a problem."}
-{"verb": "", "meaning": "definition of \"neighbourhood\"", "example": "neighbourhood is an area of a town or city."}
-{"verb": "", "meaning": "definition of \"definitely\"", "example": "definitely is certainly."}
-{"verb": "", "meaning": "definition of \"cautiously\"", "example": "cautiously is slowly and with care."}
-{"verb": "", "meaning": "definition of \"go dead\"", "example": "go dead is no longer work or be usable."}
-{"verb": "", "meaning": "definition of \"torch\"", "example": "torch is a small electric light that you carry in your hand."}
-{"verb": "", "meaning": "definition of \"something just doesn't add up\"", "example": "something just doesn't add up is something does not make sense or does not seem right."}
-{"verb": "", "meaning": "definition of \"panic\"", "example": "panic is a frightened or worried state in which you cannot think calmly."}
-{"verb": "", "meaning": "definition of \"kick\"", "example": "kick is to hit someone or something with your foot."}
-{"verb": "", "meaning": "definition of \"candle\"", "example": "candle is a stick of wax with a piece of string through the middle which produces a flame when you burn it."}
-{"verb": "", "meaning": "definition of \"costume\"", "example": "costume is a set of clothes that you wear to make you look like a different person or like an animal or other creature."}
-{"verb": "", "meaning": "definition of \"play a trick\"", "example": "play a trick is to make someone do what you want by using clever but unfair methods."}
-{"verb": "", "meaning": "definition of \"renovate\"", "example": "renovate is to repair or change something to make it better, usually a building."}
-{"verb": "", "meaning": "definition of \"relief\"", "example": "relief is a good feeling because something bad or unpleasant stops or does not happen."}
-{"verb": "", "meaning": "definition of \"performance\"", "example": "performance is the acting in a play or event in which a person behaves like someone or something else."}
-{"verb": "", "meaning": "definition of \"kingdom\"", "example": "kingdom is a country ruled by a king or queen."}
-{"verb": "", "meaning": "definition of \"knight\"", "example": "knight is in the past, a soldier of a high social class who rode a horse."}
-{"verb": "", "meaning": "definition of \"market\"", "example": "market is square an open space with buildings on all four sides at which people buy and sell things."}
-{"verb": "", "meaning": "definition of \"trader\"", "example": "trader is a person or company that buys and sells things."}
-{"verb": "", "meaning": "definition of \"potion\"", "example": "potion is a special mixture of things, usually one that has power or is magic."}
-{"verb": "", "meaning": "definition of \"nod\"", "example": "nod is to move your head up and down, especially to agree, approve or to say ‘yes’."}
-{"verb": "", "meaning": "definition of \"stone bridge\"", "example": "stone bridge is a structure made of rocks built over a river to allow people or vehicles to cross from one side to the other."}
-{"verb": "", "meaning": "definition of \"castle\"", "example": "castle is a big, strong building, usually made of stone and used as a place where people can defend themselves against their enemies."}
-{"verb": "", "meaning": "definition of \"guard\"", "example": "guard is a someone whose job is to keep a person, place or thing safe."}
-{"verb": "", "meaning": "definition of \"bag\"", "example": "bag is an object that you put things in and carry with you."}
-{"verb": "", "meaning": "definition of \"scroll\"", "example": "scroll is a letter written on paper or skin and rolled up."}
-{"verb": "", "meaning": "definition of \"suspiciously\"", "example": "suspiciously is with the feeling that you cannot trust or believe someone or something."}
-{"verb": "", "meaning": "definition of \"gold\"", "example": "gold is a valuable pale yellow metal, often used to make jewellery."}
-{"verb": "", "meaning": "definition of \"load\"", "example": "load is the amount carried by something, such as a lorry or train."}
-{"verb": "", "meaning": "definition of \"trust\"", "example": "trust is to believe that someone is honest and loyal."}
-{"verb": "", "meaning": "definition of \"betray\"", "example": "betray is to do something which harms someone who thinks you are a friend."}
-{"verb": "", "meaning": "definition of \"danger\"", "example": "danger is a thing that may harm you."}
-{"verb": "", "meaning": "definition of \"journey\"", "example": "journey is when you travel from one place to another, especially a long distance."}
-{"verb": "", "meaning": "definition of \"weapon\"", "example": "weapon is a something that used for fighting, such as a gun or a knife."}
-{"verb": "", "meaning": "definition of \"wagon\"", "example": "wagon is a large open vehicle with four wheels, usually pulled by an animal."}
-{"verb": "", "meaning": "definition of \"similar\"", "example": "similar is when things are like each other but not exactly the same."}
-{"verb": "", "meaning": "definition of \"silent\"", "example": "silent is not speaking or making any noise."}
-{"verb": "", "meaning": "definition of \"battle\"", "example": "battle is a fight between two armies."}
-{"verb": "", "meaning": "definition of \"fountain\"", "example": "fountain is a place where water flows out of the ground."}
-{"verb": "", "meaning": "definition of \"magic\"", "example": "magic is a strange powers that some people believe cause strange things to."}
-{"verb": "", "meaning": "definition of \"happen\"", "example": "happen is that you cannot explain."}
-{"verb": "", "meaning": "definition of \"special power\"", "example": "special power is having a special strength or force."}
-{"verb": "", "meaning": "definition of \"soldier\"", "example": "soldier is someone who is in an army."}
-{"verb": "", "meaning": "definition of \"bath\"", "example": "bath is to sit or lie in water so that you can wash yourself."}
-{"verb": "", "meaning": "definition of \"foul\"", "example": "foul is a very unpleasant or unusable."}
-{"verb": "", "meaning": "definition of \"secret\"", "example": "secret is a piece of information that must not be told to other people."}
-{"verb": "", "meaning": "definition of \"tax\"", "example": "tax is money you pay to the government from your income or that is added to the price of goods you buy to pay for public services."}
-{"verb": "", "meaning": "definition of \"peace\"", "example": "peace is a situation in which there is no war or violence."}
-{"verb": "", "meaning": "definition of \"farmer\"", "example": "farmer is a someone who uses land for growing food or keeping animals for meat or goods."}
-{"verb": "", "meaning": "definition of \"whisper\"", "example": "whisper is to talk very softly so that other people cannot hear."}
-{"verb": "", "meaning": "definition of \"frightened\"", "example": "frightened is afraid or very worried."}
-{"verb": "", "meaning": "definition of \"represent\"", "example": "represent is to speak or to act officially for someone else."}
-{"verb": "", "meaning": "definition of \"identical\"", "example": "identical is exactly the same."}
-{"verb": "", "meaning": "definition of \"social\"", "example": "social is of or about activities done with other people when not working."}
-{"verb": "", "meaning": "definition of \"Your Majesty\"", "example": "Your Majesty is a title used when speaking to a king or queen."}
-{"verb": "", "meaning": "definition of \"run out of\"", "example": "run out of is to completely use up so there is no more."}
-{"verb": "", "meaning": "definition of \"attack\"", "example": "attack is to suddenly and quickly try to hurt someone."}
-{"verb": "", "meaning": "definition of \"pure\"", "example": "pure is not mixed with anything else."}
-{"verb": "", "meaning": "definition of \"watchmaker\"", "example": "watchmaker is a person who makes watches."}
-{"verb": "", "meaning": "definition of \"workshop\"", "example": "workshop is a place where people build or repair things."}
-{"verb": "", "meaning": "definition of \"beach\"", "example": "beach is an area of sand or stones at the edge of the sea."}
-{"verb": "", "meaning": "definition of \"security\"", "example": "security is a guard someone whose job is to keep a person, place or thing safe."}
-{"verb": "", "meaning": "definition of \"pirate\"", "example": "pirate is a sailor who steals things from other ships at sea."}
-{"verb": "", "meaning": "definition of \"particular\"", "example": "particular is a special, of a certain type or style."}
-{"verb": "", "meaning": "definition of \"strange power\"", "example": "strange power is an unusual strength or force."}
-{"verb": "", "meaning": "definition of \"legend\"", "example": "legend is an old traditional story that is usually not true."}
-{"verb": "", "meaning": "definition of \"sand\"", "example": "sand is very small grains of rock that are found on beaches and in deserts."}
-{"verb": "", "meaning": "definition of \"stout\"", "example": "stout is round and heavy, usually overweight."}
-{"verb": "", "meaning": "definition of \"ignore\"", "example": "ignore is to not pay attention to someone or something."}
-{"verb": "", "meaning": "definition of \"demand\"", "example": "demand is to ask for something in a forceful way that shows you do not expect to be refused."}
-{"verb": "", "meaning": "definition of \"old-fashioned\"", "example": "old-fashioned is a not modern or fashionable."}
-{"verb": "", "meaning": "definition of \"accent\"", "example": "accent is a way of speaking that shows particular pronunciation, often linked to a region, country, or social group."}
-{"verb": "", "meaning": "definition of \"factor\"", "example": "factor is a something that causes or influences a situation."}
-{"verb": "", "meaning": "definition of \"hurry\"", "example": "hurry is to go somewhere or do something quickly."}
-{"verb": "", "meaning": "definition of \"transport\"", "example": "transport is to move something from one place to another."}
-{"verb": "", "meaning": "definition of \"camp\"", "example": "camp is a place where people live in temporary shelters, usually for a short time."}
-{"verb": "", "meaning": "definition of \"skin\"", "example": "skin is the outside layer of your body."}
-{"verb": "", "meaning": "definition of \"captain\"", "example": "captain is the person in charge of a ship or an aircraft."}
-{"verb": "", "meaning": "definition of \"guest\"", "example": "guest is someone invited to a home or event."}
-{"verb": "", "meaning": "definition of \"pay attention\"", "example": "pay attention is to focus or concentrate on something."}
-{"verb": "", "meaning": "definition of \"ship\"", "example": "ship is a large boat that carries passengers or goods on sea journeys."}
-{"verb": "", "meaning": "definition of \"tent\"", "example": "tent is a frame covered with cloth in which you can sleep or live, usually for a short time."}
-{"verb": "", "meaning": "definition of \"disappointed\"", "example": "disappointed is unhappy because something is not how you had hoped or expected."}
-{"verb": "", "meaning": "definition of \"get ugly\"", "example": "get ugly is to become unpleasant or dangerous."}
-{"verb": "", "meaning": "definition of \"cannon\"", "example": "cannon is a large gun that fires big metal balls or other large explosives."}
-{"verb": "", "meaning": "definition of \"second in command\"", "example": "second in command is a person who takes over if a leader can no longer lead."}
-{"verb": "", "meaning": "definition of \"helm\"", "example": "helm is a wheel that is used to control a ship."}
-{"verb": "", "meaning": "definition of \"incredible\"", "example": "incredible is extremely good or great."}
-{"verb": "", "meaning": "definition of \"give up\"", "example": "give up is to stop before something is finished, often because it is too difficult."}
-{"verb": "", "meaning": "definition of \"pretend\"", "example": "pretend is to try to make someone believe something that is not true by acting like it is true."}
-{"verb": "", "meaning": "definition of \"fire\"", "example": "fire is to shoot something from a gun or other weapon."}
-{"verb": "", "meaning": "definition of \"tightly\"", "example": "tightly is in a firm and strong way."}
-{"verb": "", "meaning": "definition of \"balance\"", "example": "balance is when you have the same amount of weight on each side of your body so that you do not fall over."}
-{"verb": "", "meaning": "definition of \"grab\"", "example": "grab is to take something suddenly or violently."}
-{"verb": "", "meaning": "definition of \"activate\"", "example": "activate is to make something start working."}
-{"verb": "", "meaning": "definition of \"angry\"", "example": "angry is very annoyed or upset."}
-{"verb": "", "meaning": "definition of \"destroy\"", "example": "destroy is to damage something so badly that it no longer exists or cannot be used."}
-{"verb": "", "meaning": "definition of \"force\"", "example": "force is to use power or physical strength to make something happen."}
+{"verb": "", "definition": "definition of \"exchange student\"", "example": "exchange student is a student studying in another area or country."}
+{"verb": "", "definition": "definition of \"electrician\"", "example": "electrician is someone whose job is to put in or repair electrical equipment."}
+{"verb": "", "definition": "definition of \"science fiction\"", "example": "science fiction is stories that take place in an imagined future or in other parts of the universe."}
+{"verb": "", "definition": "definition of \"shower\"", "example": "shower is a piece of bathroom equipment that produces a flow of water that you stand under to wash yourself."}
+{"verb": "", "definition": "definition of \"airport\"", "example": "airport is a place where passengers get on and off aircraft."}
+{"verb": "", "definition": "definition of \"wad of cash\"", "example": "wad of cash is a pile of paper money."}
+{"verb": "", "definition": "definition of \"head for (slang)\"", "example": "head for (slang) is go to."}
+{"verb": "", "definition": "definition of \"nervous\"", "example": "nervous is worried or frightened."}
+{"verb": "", "definition": "definition of \"check in (for a flight)\"", "example": "check in (for a flight) is to tell the people at an airport that you have arrived."}
+{"verb": "", "definition": "definition of \"relaxed\"", "example": "relaxed is feeling calm, comfortable and not worried."}
+{"verb": "", "definition": "definition of \"hug\"", "example": "hug is to put your arms around someone and hold them."}
+{"verb": "", "definition": "definition of \"take off\"", "example": "take off is when an aeroplane leaves the ground and goes up into the air."}
+{"verb": "", "definition": "definition of \"shy\"", "example": "shy is nervous and not confident when meeting and speaking to people."}
+{"verb": "", "definition": "definition of \"quiet\"", "example": "quiet is having or making little or no noise."}
+{"verb": "", "definition": "definition of \"flat\"", "example": "flat is a set of rooms that someone lives in, and which are part of a larger building."}
+{"verb": "", "definition": "definition of \"taxi\"", "example": "taxi is a car with a driver that you pay to take you from one place to another."}
+{"verb": "", "definition": "definition of \"restaurant\"", "example": "restaurant is a place where you can buy and eat a meal."}
+{"verb": "", "definition": "definition of \"paella\"", "example": "paella is a dish made of chicken, rice, seafood, vegetables and seasonings."}
+{"verb": "", "definition": "definition of \"station\"", "example": "station is a building where trains, buses, or other vehicles stop to allow people to get on and off."}
+{"verb": "", "definition": "definition of \"packed\"", "example": "packed is very full of something."}
+{"verb": "", "definition": "definition of \"comfortable\"", "example": "comfortable is happy and relaxed (about doing something)."}
+{"verb": "", "definition": "definition of \"mobile (phone)\"", "example": "mobile (phone) is a telephone that you carry with you."}
+{"verb": "", "definition": "definition of \"tired\"", "example": "tired is feeling that you need a rest."}
+{"verb": "", "definition": "definition of \"wake up\"", "example": "wake up is to stop sleeping."}
+{"verb": "", "definition": "definition of \"express bus\"", "example": "express bus is a large vehicle with a lot of seats for passengers that travels quickly between big cities, without stopping."}
+{"verb": "", "definition": "definition of \"(mobile) battery has died\"", "example": "(mobile) battery has died is no longer power to run a device or telephone."}
+{"verb": "", "definition": "definition of \"phone box\"", "example": "phone box is a small booth or box, usually on a street, with a telephone you can pay to use."}
+{"verb": "", "definition": "definition of \"menu\"", "example": "menu is a list of the food available in a restaurant."}
+{"verb": "", "definition": "definition of \"madly\"", "example": "madly is in an excited way."}
+{"verb": "", "definition": "definition of \"embarrassed\"", "example": "embarrassed is feeling ashamed or stupid."}
+{"verb": "", "definition": "definition of \"It's all too much. (Something)\"", "example": "It's all too much. (Something) is more than a person can handle or manage ironic surprising, often because it is the opposite of what is expected."}
+{"verb": "", "definition": "definition of \"reality sinks in (expression)\"", "example": "reality sinks in (expression) is when you one begin to understand the truth of what is happening."}
+{"verb": "", "definition": "definition of \"crazy\"", "example": "crazy is out of control or unexpected, very strange, surprising, chaotic or not sensible."}
+{"verb": "", "definition": "definition of \"entrance\"", "example": "entrance is a part of a building where you go in."}
+{"verb": "", "definition": "definition of \"solution\"", "example": "solution is an answer to a problem or a question."}
+{"verb": "", "definition": "definition of \"lorry\"", "example": "lorry is a large vehicle for carrying heavy goods by road."}
+{"verb": "", "definition": "definition of \"engine\"", "example": "engine is a part of a machine that uses energy to produce movement."}
+{"verb": "", "definition": "definition of \"motorway\"", "example": "motorway is a wide road for vehicles travelling fast over long distances."}
+{"verb": "", "definition": "definition of \"silence\"", "example": "silence is when it is completely quiet and no sound can be heard."}
+{"verb": "", "definition": "definition of \"with concern\"", "example": "with concern is in a worried or unsure way."}
+{"verb": "", "definition": "definition of \"hide\"", "example": "hide is to be in a place where people cannot see or find something or someone easily."}
+{"verb": "", "definition": "definition of \"lucky when\"", "example": "lucky when is something good happens to you by chance."}
+{"verb": "", "definition": "definition of \"coincidence\"", "example": "coincidence is when two things happen at the same time by chance."}
+{"verb": "", "definition": "definition of \"stretch (one's) legs\"", "example": "stretch (one's) legs is to move around, usually after being still for a time."}
+{"verb": "", "definition": "definition of \"dinner\"", "example": "dinner is a main meal in the evening or in the middle of the day."}
+{"verb": "", "definition": "definition of \"receptionist\"", "example": "receptionist is a person that sits at the entrance to an office or building and directs visitors."}
+{"verb": "", "definition": "definition of \"lift\"", "example": "lift is a small box that takes people up and down in a building."}
+{"verb": "", "definition": "definition of \"fate\"", "example": "fate is an unknown and uncontrollable power that seems to make things happen."}
+{"verb": "", "definition": "definition of \"be taken aback\"", "example": "be taken aback is to be surprised, often in an unpleasant or unwanted way."}
+{"verb": "", "definition": "definition of \"impossible\"", "example": "impossible is not possible, not able to do or happen."}
+{"verb": "", "definition": "definition of \"realize\"", "example": "realize is to know and understand something that you did not know or understand before."}
+{"verb": "", "definition": "definition of \"awkwardly\"", "example": "awkwardly is in an odd or uncomfortable way."}
+{"verb": "", "definition": "definition of \"celebration\"", "example": "celebration is a happy event or party."}
+{"verb": "", "definition": "definition of \"burst out\"", "example": "burst out is laughing to suddenly start to laugh."}
+{"verb": "", "definition": "definition of \"lake\"", "example": "lake is a large area of water with land all around it."}
+{"verb": "", "definition": "definition of \"mild weather\"", "example": "mild weather is a weather that is quite warm and comfortable."}
+{"verb": "", "definition": "definition of \"hiker\"", "example": "hiker is a person who enjoys long walks in the countryside."}
+{"verb": "", "definition": "definition of \"backpack\"", "example": "backpack is a small bag used to carry things around on the back."}
+{"verb": "", "definition": "definition of \"wood\"", "example": "wood is an area where a lot of trees grow closely together."}
+{"verb": "", "definition": "definition of \"excursion\"", "example": "excursion is a trip or outing."}
+{"verb": "", "definition": "definition of \"shout\"", "example": "shout is to say something very loudly or to make a loud noise with your voice."}
+{"verb": "", "definition": "definition of \"path\"", "example": "path is a narrow route across a piece of ground that people walk or ride a bicycle along."}
+{"verb": "", "definition": "definition of \"split\"", "example": "split is to go in two different directions."}
+{"verb": "", "definition": "definition of \"creature\"", "example": "creature is any living thing that is not a plant."}
+{"verb": "", "definition": "definition of \"strange\"", "example": "strange is unusual."}
+{"verb": "", "definition": "definition of \"safe\"", "example": "safe is unlikely to be harmed or hurt."}
+{"verb": "", "definition": "definition of \"ugly\"", "example": "ugly is not pleasant to look at."}
+{"verb": "", "definition": "definition of \"boat\"", "example": "boat is a vehicle for travelling over water."}
+{"verb": "", "definition": "definition of \"shore\"", "example": "shore is the area of land next to the sea or next to a lake."}
+{"verb": "", "definition": "definition of \"\"Are you kidding?\"\"", "example": "\"Are you kidding?\" is a question asked to express disbelief or check if someone is joking."}
+{"verb": "", "definition": "definition of \"row\"", "example": "row is to pull a boat through water using long wooden sticks."}
+{"verb": "", "definition": "definition of \"explore\"", "example": "explore is to travel around a place and find out what it is like."}
+{"verb": "", "definition": "definition of \"dust\"", "example": "dust is a powder of dirt on a surface or in the air."}
+{"verb": "", "definition": "definition of \"footprint\"", "example": "footprint is a mark that a foot leaves on the ground."}
+{"verb": "", "definition": "definition of \"disappear\"", "example": "disappear is to go somewhere and not be seen or found."}
+{"verb": "", "definition": "definition of \"\"No way!\"\"", "example": "\"No way!\" is a slang expression used to show surprise or disbelief."}
+{"verb": "", "definition": "definition of \"split up\"", "example": "split up is to divide a group of people into smaller groups or individuals."}
+{"verb": "", "definition": "definition of \"imagine\"", "example": "imagine is to form a picture of someone or something in your mind."}
+{"verb": "", "definition": "definition of \"thicket\"", "example": "thicket is a small group of trees."}
+{"verb": "", "definition": "definition of \"mobile\"", "example": "mobile is a telephone device that you carry with you."}
+{"verb": "", "definition": "definition of \"mobile service\"", "example": "mobile service is a service the system that allows you to use a mobile telephone."}
+{"verb": "", "definition": "definition of \"joke\"", "example": "joke is something said or done to be funny."}
+{"verb": "", "definition": "definition of \"think things through\"", "example": "think things through is to consider or work through a problem."}
+{"verb": "", "definition": "definition of \"neighbourhood\"", "example": "neighbourhood is an area of a town or city."}
+{"verb": "", "definition": "definition of \"definitely\"", "example": "definitely is certainly."}
+{"verb": "", "definition": "definition of \"cautiously\"", "example": "cautiously is slowly and with care."}
+{"verb": "", "definition": "definition of \"go dead\"", "example": "go dead is no longer work or be usable."}
+{"verb": "", "definition": "definition of \"torch\"", "example": "torch is a small electric light that you carry in your hand."}
+{"verb": "", "definition": "definition of \"something just doesn't add up\"", "example": "something just doesn't add up is something does not make sense or does not seem right."}
+{"verb": "", "definition": "definition of \"panic\"", "example": "panic is a frightened or worried state in which you cannot think calmly."}
+{"verb": "", "definition": "definition of \"kick\"", "example": "kick is to hit someone or something with your foot."}
+{"verb": "", "definition": "definition of \"candle\"", "example": "candle is a stick of wax with a piece of string through the middle which produces a flame when you burn it."}
+{"verb": "", "definition": "definition of \"costume\"", "example": "costume is a set of clothes that you wear to make you look like a different person or like an animal or other creature."}
+{"verb": "", "definition": "definition of \"play a trick\"", "example": "play a trick is to make someone do what you want by using clever but unfair methods."}
+{"verb": "", "definition": "definition of \"renovate\"", "example": "renovate is to repair or change something to make it better, usually a building."}
+{"verb": "", "definition": "definition of \"relief\"", "example": "relief is a good feeling because something bad or unpleasant stops or does not happen."}
+{"verb": "", "definition": "definition of \"performance\"", "example": "performance is the acting in a play or event in which a person behaves like someone or something else."}
+{"verb": "", "definition": "definition of \"kingdom\"", "example": "kingdom is a country ruled by a king or queen."}
+{"verb": "", "definition": "definition of \"knight\"", "example": "knight is in the past, a soldier of a high social class who rode a horse."}
+{"verb": "", "definition": "definition of \"market\"", "example": "market is square an open space with buildings on all four sides at which people buy and sell things."}
+{"verb": "", "definition": "definition of \"trader\"", "example": "trader is a person or company that buys and sells things."}
+{"verb": "", "definition": "definition of \"potion\"", "example": "potion is a special mixture of things, usually one that has power or is magic."}
+{"verb": "", "definition": "definition of \"nod\"", "example": "nod is to move your head up and down, especially to agree, approve or to say ‘yes’."}
+{"verb": "", "definition": "definition of \"stone bridge\"", "example": "stone bridge is a structure made of rocks built over a river to allow people or vehicles to cross from one side to the other."}
+{"verb": "", "definition": "definition of \"castle\"", "example": "castle is a big, strong building, usually made of stone and used as a place where people can defend themselves against their enemies."}
+{"verb": "", "definition": "definition of \"guard\"", "example": "guard is a someone whose job is to keep a person, place or thing safe."}
+{"verb": "", "definition": "definition of \"bag\"", "example": "bag is an object that you put things in and carry with you."}
+{"verb": "", "definition": "definition of \"scroll\"", "example": "scroll is a letter written on paper or skin and rolled up."}
+{"verb": "", "definition": "definition of \"suspiciously\"", "example": "suspiciously is with the feeling that you cannot trust or believe someone or something."}
+{"verb": "", "definition": "definition of \"gold\"", "example": "gold is a valuable pale yellow metal, often used to make jewellery."}
+{"verb": "", "definition": "definition of \"load\"", "example": "load is the amount carried by something, such as a lorry or train."}
+{"verb": "", "definition": "definition of \"trust\"", "example": "trust is to believe that someone is honest and loyal."}
+{"verb": "", "definition": "definition of \"betray\"", "example": "betray is to do something which harms someone who thinks you are a friend."}
+{"verb": "", "definition": "definition of \"danger\"", "example": "danger is a thing that may harm you."}
+{"verb": "", "definition": "definition of \"journey\"", "example": "journey is when you travel from one place to another, especially a long distance."}
+{"verb": "", "definition": "definition of \"weapon\"", "example": "weapon is a something that used for fighting, such as a gun or a knife."}
+{"verb": "", "definition": "definition of \"wagon\"", "example": "wagon is a large open vehicle with four wheels, usually pulled by an animal."}
+{"verb": "", "definition": "definition of \"similar\"", "example": "similar is when things are like each other but not exactly the same."}
+{"verb": "", "definition": "definition of \"silent\"", "example": "silent is not speaking or making any noise."}
+{"verb": "", "definition": "definition of \"battle\"", "example": "battle is a fight between two armies."}
+{"verb": "", "definition": "definition of \"fountain\"", "example": "fountain is a place where water flows out of the ground."}
+{"verb": "", "definition": "definition of \"magic\"", "example": "magic is a strange powers that some people believe cause strange things to."}
+{"verb": "", "definition": "definition of \"happen\"", "example": "happen is that you cannot explain."}
+{"verb": "", "definition": "definition of \"special power\"", "example": "special power is having a special strength or force."}
+{"verb": "", "definition": "definition of \"soldier\"", "example": "soldier is someone who is in an army."}
+{"verb": "", "definition": "definition of \"bath\"", "example": "bath is to sit or lie in water so that you can wash yourself."}
+{"verb": "", "definition": "definition of \"foul\"", "example": "foul is a very unpleasant or unusable."}
+{"verb": "", "definition": "definition of \"secret\"", "example": "secret is a piece of information that must not be told to other people."}
+{"verb": "", "definition": "definition of \"tax\"", "example": "tax is money you pay to the government from your income or that is added to the price of goods you buy to pay for public services."}
+{"verb": "", "definition": "definition of \"peace\"", "example": "peace is a situation in which there is no war or violence."}
+{"verb": "", "definition": "definition of \"farmer\"", "example": "farmer is a someone who uses land for growing food or keeping animals for meat or goods."}
+{"verb": "", "definition": "definition of \"whisper\"", "example": "whisper is to talk very softly so that other people cannot hear."}
+{"verb": "", "definition": "definition of \"frightened\"", "example": "frightened is afraid or very worried."}
+{"verb": "", "definition": "definition of \"represent\"", "example": "represent is to speak or to act officially for someone else."}
+{"verb": "", "definition": "definition of \"identical\"", "example": "identical is exactly the same."}
+{"verb": "", "definition": "definition of \"social\"", "example": "social is of or about activities done with other people when not working."}
+{"verb": "", "definition": "definition of \"Your Majesty\"", "example": "Your Majesty is a title used when speaking to a king or queen."}
+{"verb": "", "definition": "definition of \"run out of\"", "example": "run out of is to completely use up so there is no more."}
+{"verb": "", "definition": "definition of \"attack\"", "example": "attack is to suddenly and quickly try to hurt someone."}
+{"verb": "", "definition": "definition of \"pure\"", "example": "pure is not mixed with anything else."}
+{"verb": "", "definition": "definition of \"watchmaker\"", "example": "watchmaker is a person who makes watches."}
+{"verb": "", "definition": "definition of \"workshop\"", "example": "workshop is a place where people build or repair things."}
+{"verb": "", "definition": "definition of \"beach\"", "example": "beach is an area of sand or stones at the edge of the sea."}
+{"verb": "", "definition": "definition of \"security\"", "example": "security is a guard someone whose job is to keep a person, place or thing safe."}
+{"verb": "", "definition": "definition of \"pirate\"", "example": "pirate is a sailor who steals things from other ships at sea."}
+{"verb": "", "definition": "definition of \"particular\"", "example": "particular is a special, of a certain type or style."}
+{"verb": "", "definition": "definition of \"strange power\"", "example": "strange power is an unusual strength or force."}
+{"verb": "", "definition": "definition of \"legend\"", "example": "legend is an old traditional story that is usually not true."}
+{"verb": "", "definition": "definition of \"sand\"", "example": "sand is very small grains of rock that are found on beaches and in deserts."}
+{"verb": "", "definition": "definition of \"stout\"", "example": "stout is round and heavy, usually overweight."}
+{"verb": "", "definition": "definition of \"ignore\"", "example": "ignore is to not pay attention to someone or something."}
+{"verb": "", "definition": "definition of \"demand\"", "example": "demand is to ask for something in a forceful way that shows you do not expect to be refused."}
+{"verb": "", "definition": "definition of \"old-fashioned\"", "example": "old-fashioned is a not modern or fashionable."}
+{"verb": "", "definition": "definition of \"accent\"", "example": "accent is a way of speaking that shows particular pronunciation, often linked to a region, country, or social group."}
+{"verb": "", "definition": "definition of \"factor\"", "example": "factor is a something that causes or influences a situation."}
+{"verb": "", "definition": "definition of \"hurry\"", "example": "hurry is to go somewhere or do something quickly."}
+{"verb": "", "definition": "definition of \"transport\"", "example": "transport is to move something from one place to another."}
+{"verb": "", "definition": "definition of \"camp\"", "example": "camp is a place where people live in temporary shelters, usually for a short time."}
+{"verb": "", "definition": "definition of \"skin\"", "example": "skin is the outside layer of your body."}
+{"verb": "", "definition": "definition of \"captain\"", "example": "captain is the person in charge of a ship or an aircraft."}
+{"verb": "", "definition": "definition of \"guest\"", "example": "guest is someone invited to a home or event."}
+{"verb": "", "definition": "definition of \"pay attention\"", "example": "pay attention is to focus or concentrate on something."}
+{"verb": "", "definition": "definition of \"ship\"", "example": "ship is a large boat that carries passengers or goods on sea journeys."}
+{"verb": "", "definition": "definition of \"tent\"", "example": "tent is a frame covered with cloth in which you can sleep or live, usually for a short time."}
+{"verb": "", "definition": "definition of \"disappointed\"", "example": "disappointed is unhappy because something is not how you had hoped or expected."}
+{"verb": "", "definition": "definition of \"get ugly\"", "example": "get ugly is to become unpleasant or dangerous."}
+{"verb": "", "definition": "definition of \"cannon\"", "example": "cannon is a large gun that fires big metal balls or other large explosives."}
+{"verb": "", "definition": "definition of \"second in command\"", "example": "second in command is a person who takes over if a leader can no longer lead."}
+{"verb": "", "definition": "definition of \"helm\"", "example": "helm is a wheel that is used to control a ship."}
+{"verb": "", "definition": "definition of \"incredible\"", "example": "incredible is extremely good or great."}
+{"verb": "", "definition": "definition of \"give up\"", "example": "give up is to stop before something is finished, often because it is too difficult."}
+{"verb": "", "definition": "definition of \"pretend\"", "example": "pretend is to try to make someone believe something that is not true by acting like it is true."}
+{"verb": "", "definition": "definition of \"fire\"", "example": "fire is to shoot something from a gun or other weapon."}
+{"verb": "", "definition": "definition of \"tightly\"", "example": "tightly is in a firm and strong way."}
+{"verb": "", "definition": "definition of \"balance\"", "example": "balance is when you have the same amount of weight on each side of your body so that you do not fall over."}
+{"verb": "", "definition": "definition of \"grab\"", "example": "grab is to take something suddenly or violently."}
+{"verb": "", "definition": "definition of \"activate\"", "example": "activate is to make something start working."}
+{"verb": "", "definition": "definition of \"angry\"", "example": "angry is very annoyed or upset."}
+{"verb": "", "definition": "definition of \"destroy\"", "example": "destroy is to damage something so badly that it no longer exists or cannot be used."}
+{"verb": "", "definition": "definition of \"force\"", "example": "force is to use power or physical strength to make something happen."}
 
 
-{"verb": "", "meaning": "definition of \"mission\"", "example": "mission is an important or official job that someone believes he or she must do."}
-{"verb": "", "meaning": "definition of \"beard\"", "example": "beard is the hair that grows on a man's chin."}
-{"verb": "", "meaning": "definition of \"carefully\"", "example": "carefully is without making mistakes or causing damage."}
-{"verb": "", "meaning": "definition of \"harm\"", "example": "harm is to hurt, damage or cause problems for someone or something."}
-{"verb": "", "meaning": "definition of \"pocket\"", "example": "pocket is an extra piece of cloth sewn into a piece of clothing or a bag, used for keeping small things in."}
-{"verb": "", "meaning": "definition of \"chest\"", "example": "chest is a large box for storing things."}
-{"verb": "", "meaning": "definition of \"(of) value\"", "example": "(of) value is worth money, important."}
-{"verb": "", "meaning": "definition of \"lock\"", "example": "lock is a device that fastens things such as doors and drawers, usually opened and closed using a key or number code."}
-{"verb": "", "meaning": "definition of \"excitedly\"", "example": "excitedly is a feeling of being very happy and not calm because something good is going to happen."}
-{"verb": "", "meaning": "definition of \"neat\"", "example": "neat is a tidy and arranged carefully."}
-{"verb": "", "meaning": "definition of \"garage\"", "example": "garage is a small building that you keep your car in."}
-{"verb": "", "meaning": "definition of \"unwrap\"", "example": "unwrap is to remove layers or cloth to open something up."}
-{"verb": "", "meaning": "definition of \"gold necklace\"", "example": "gold necklace is a piece of jewellery for around the neck made of a pale yellow metal."}
-{"verb": "", "meaning": "definition of \"expensive\"", "example": "expensive is costing a lot of money."}
-{"verb": "", "meaning": "definition of \"jacket\"", "example": "jacket is a short coat, usually with long sleeves."}
-{"verb": "", "meaning": "definition of \"sunglasses\"", "example": "sunglasses is a dark glasses that protect your eyes from the sun."}
-{"verb": "", "meaning": "definition of \"button\"", "example": "button is a small round object you press to make a machine turn on or move."}
-{"verb": "", "meaning": "definition of \"butler\"", "example": "butler is a person who helps other people in the home for a job."}
-{"verb": "", "meaning": "definition of \"wooden\"", "example": "wooden is made of wood."}
-{"verb": "", "meaning": "definition of \"traditional\"", "example": "traditional is based on customs that have existed for a long time."}
-{"verb": "", "meaning": "definition of \"afternoon tea\"", "example": "afternoon tea is a light meal with tea eaten in the afternoon."}
-{"verb": "", "meaning": "definition of \"specific\"", "example": "specific is an exact, of a certain type."}
-{"verb": "", "meaning": "definition of \"impatient\"", "example": "impatient is easily angered because you don't like to wait."}
-{"verb": "", "meaning": "definition of \"museum\"", "example": "museum is a building where collections of interesting things are arranged for people to see."}
-{"verb": "", "meaning": "definition of \"flight\"", "example": "flight is a journey in an aircraft."}
-{"verb": "", "meaning": "definition of \"modern\"", "example": "modern is to do with the present time and not the past."}
-{"verb": "", "meaning": "definition of \"rental\"", "example": "rental is the act of paying money so that you can use something."}
-{"verb": "", "meaning": "definition of \"consider\"", "example": "consider is to think about something carefully."}
-{"verb": "", "meaning": "definition of \"taste\"", "example": "taste is a person's preferences for something such as clothing, art or behaviour."}
-{"verb": "", "meaning": "definition of \"ring\"", "example": "ring is a round piece of jewellery that you wear on your finger."}
-{"verb": "", "meaning": "definition of \"adopt\"", "example": "adopt is to take someone else's child into your family and legally become their parent."}
-{"verb": "", "meaning": "definition of \"agency\"", "example": "agency is an organization or business that provides a particular service."}
-{"verb": "", "meaning": "definition of \"sibling\"", "example": "sibling is a brother or sister."}
-{"verb": "", "meaning": "definition of \"accident\"", "example": "accident is a bad thing that happens that is not intended."}
-{"verb": "", "meaning": "definition of \"be born\"", "example": "be born is a person or animal is born when it comes out of its mother's body."}
-{"verb": "", "meaning": "definition of \"terrible\"", "example": "terrible is a very bad."}
-{"verb": "", "meaning": "definition of \"territory\"", "example": "territory is the land that a particular country controls."}
-{"verb": "", "meaning": "definition of \"mountain\"", "example": "mountain is a very high hill."}
-{"verb": "", "meaning": "definition of \"hunt\"", "example": "hunt is to chase and kill animals for food or for sport."}
-{"verb": "", "meaning": "definition of \"chief\"", "example": "chief is a person in charge of a group or organization."}
-{"verb": "", "meaning": "definition of \"muscle\"", "example": "muscle is one of the parts in the body that are connected to bones and that cause the body to move by becoming shorter or longer."}
-{"verb": "", "meaning": "definition of \"strict\"", "example": "strict is an expecting people to obey your rules."}
-{"verb": "", "meaning": "definition of \"expedition\"", "example": "expedition is a long journey, especially to a dangerous place or to a place that has not been visited before."}
-{"verb": "", "meaning": "definition of \"river\"", "example": "river is a large stream of water that flows across land."}
-{"verb": "", "meaning": "definition of \"shortage\"", "example": "shortage is when there is not enough of something."}
-{"verb": "", "meaning": "definition of \"meat\"", "example": "meat is the flesh of animals eaten as food."}
-{"verb": "", "meaning": "definition of \"god\"", "example": "god is a spirit that some people believe controls nature or represents a particular quality."}
-{"verb": "", "meaning": "definition of \"wife\"", "example": "wife is a woman who a person is married to."}
-{"verb": "", "meaning": "definition of \"strategy\"", "example": "strategy is a plan, the way you are going to get something."}
-{"verb": "", "meaning": "definition of \"progress\"", "example": "progress is a movement forward towards a goal or completion of a plan."}
-{"verb": "", "meaning": "definition of \"sail\"", "example": "sail is to travel somewhere in a ship or a boat."}
-{"verb": "", "meaning": "definition of \"warrior\"", "example": "warrior is a soldier, especially in the past."}
-{"verb": "", "meaning": "definition of \"bird\"", "example": "bird is a creature with wings and feathers that produces eggs."}
-{"verb": "", "meaning": "definition of \"evidence\"", "example": "evidence is facts or objects that help to prove something."}
-{"verb": "", "meaning": "definition of \"rough\"", "example": "rough is not smooth."}
-{"verb": "", "meaning": "definition of \"storm\"", "example": "storm is a time when there is a lot of wind and rain."}
-{"verb": "", "meaning": "definition of \"sky\"", "example": "sky is the area above Earth where you can see the sun, moon, stars and clouds."}
-{"verb": "", "meaning": "definition of \"course (of a ship)\"", "example": "course (of a ship) is a direction that a vehicle is travelling in."}
-{"verb": "", "meaning": "definition of \"wake (up)\"", "example": "wake (up) is to stop sleeping, or to make someone stop sleeping."}
-{"verb": "", "meaning": "definition of \"resource\"", "example": "resource is something that you have and are able to use."}
-{"verb": "", "meaning": "definition of \"sunrise\"", "example": "sunrise is a beginning of the day when the sun moves into the sky."}
-{"verb": "", "meaning": "definition of \"doubt\"", "example": "doubt is a feeling of not being certain about something."}
-{"verb": "", "meaning": "definition of \"exhaustion\"", "example": "exhaustion is a feeling of extreme tiredness."}
-{"verb": "", "meaning": "definition of \"have a feeling\"", "example": "have a feeling is to believe that something is true not because of facts but because of emotions."}
-{"verb": "", "meaning": "definition of \"risk\"", "example": "risk is to take the chance of damaging or losing something."}
-{"verb": "", "meaning": "definition of \"forgive\"", "example": "forgive is to stop being angry with someone for something they have done."}
-{"verb": "", "meaning": "definition of \"distracted\"", "example": "distracted is nervous or not able to think clearly because you are worried or upset."}
-{"verb": "", "meaning": "definition of \"language\"", "example": "language is communication using speech and writing."}
-{"verb": "", "meaning": "definition of \"gesture\"", "example": "gesture is to move your body or its parts to express what you think or feel."}
-{"verb": "", "meaning": "definition of \"disease\"", "example": "disease is an illness."}
-{"verb": "", "meaning": "definition of \"society\"", "example": "society is all the people who live in a group or in a particular country or area."}
-{"verb": "", "meaning": "definition of \"damage\"", "example": "damage is to harm or hurt something."}
-{"verb": "", "meaning": "definition of \"establish\"", "example": "establish is to start an organization or business."}
-{"verb": "", "meaning": "definition of \"former\"", "example": "former is an existing or true in the past but not now."}
-{"verb": "", "meaning": "definition of \"incident\"", "example": "incident is something that happens, especially something bad such as a crime."}
-{"verb": "", "meaning": "definition of \"administrative assistant\"", "example": "administrative assistant is a person whose job is to help someone else in an office."}
-{"verb": "", "meaning": "definition of \"barbecue\"", "example": "barbecue is a meal for which the food is cooked over a fire, usually outdoors."}
-{"verb": "", "meaning": "definition of \"cook\"", "example": "cook is to prepare and heat food so that it is ready to eat."}
-{"verb": "", "meaning": "definition of \"director\"", "example": "director is a manager of a business, organization or department."}
-{"verb": "", "meaning": "definition of \"metal ball\"", "example": "metal ball is a round object made of a hard shiny material such as iron, gold or silver."}
-{"verb": "", "meaning": "definition of \"go out\"", "example": "go out is to stop working or become dark."}
-{"verb": "", "meaning": "definition of \"relax\"", "example": "relax is to rest and become calmer and less worried."}
-{"verb": "", "meaning": "definition of \"wave\"", "example": "wave is to move your hand in order to say hello or goodbye or to attract someone's attention."}
-{"verb": "", "meaning": "definition of \"invisible\"", "example": "invisible is impossible to see, not possible to be viewed by others."}
-{"verb": "", "meaning": "definition of \"tone\"", "example": "tone is the quality of a sound or of someone's voice."}
-{"verb": "", "meaning": "definition of \"meanwhile\"", "example": "meanwhile is at the same time."}
-{"verb": "", "meaning": "definition of \"careful\"", "example": "careful is making sure that you do something correctly or safely."}
-{"verb": "", "meaning": "definition of \"steal\"", "example": "steal is to take something without the owner's permission."}
-{"verb": "", "meaning": "definition of \"security camera\"", "example": "security camera is an electronic device that makes videos of an area in real time so it can be watched and protected."}
-{"verb": "", "meaning": "definition of \"bonus\"", "example": "bonus is something good that you get in addition to something else good."}
-{"verb": "", "meaning": "definition of \"stock\"", "example": "stock is a part ownership of a company or business."}
-{"verb": "", "meaning": "definition of \"profit\"", "example": "profit is a money you make by selling something for more than you paid for it."}
-{"verb": "", "meaning": "definition of \"raise\"", "example": "raise is an increase in money paid to do a job."}
-{"verb": "", "meaning": "definition of \"quarter\"", "example": "quarter is a three-month period in the business year."}
-{"verb": "", "meaning": "definition of \"technology\"", "example": "technology is scientific knowledge, methods or equipment used in practical ways."}
-{"verb": "", "meaning": "definition of \"potential\"", "example": "potential is the possibility of becoming something big or important in the future."}
-{"verb": "", "meaning": "definition of \"investment\"", "example": "investment is an amount of money or time put into something in order to get a return."}
-{"verb": "", "meaning": "definition of \"advanced\"", "example": "advanced is the newest or most developed."}
-{"verb": "", "meaning": "definition of \"competitor\"", "example": "competitor is a person or business that tries to win or to be better than the others."}
-{"verb": "", "meaning": "definition of \"technically\"", "example": "technically is according to official or usual practice."}
-{"verb": "", "meaning": "definition of \"crowd\"", "example": "crowd is a large number of people or things together in one place."}
-{"verb": "", "meaning": "definition of \"volunteer\"", "example": "volunteer is someone who offers to do something."}
-{"verb": "", "meaning": "definition of \"hurt\"", "example": "hurt is to cause pain or injury to someone."}
-{"verb": "", "meaning": "definition of \"confused\"", "example": "confused is unsure of what to think, believe or do."}
-{"verb": "", "meaning": "definition of \"shake\"", "example": "shake is to make quick small movements from side to side or up and down (In this case, Sophie is moving her head from side to side to mean ‘no’.)"}
-{"verb": "", "meaning": "definition of \"light\"", "example": "light is up to become filled with the energy that allows us to see."}
-{"verb": "", "meaning": "definition of \"truth\"", "example": "truth is the true facts, something that is not a lie."}
-{"verb": "", "meaning": "definition of \"kiss\"", "example": "kiss is to touch someone with your lips, especially on their mouth or face, to show is that you feel love or affection for them."}
-{"verb": "", "meaning": "definition of \"support\"", "example": "support is to agree with an idea, person, etc. and want them to succeed."}
-{"verb": "", "meaning": "definition of \"get lost\"", "example": "get lost is to not know where you are, to be unable to find your way."}
-{"verb": "", "meaning": "definition of \"planet\"", "example": "planet is any of the large objects in the universe that move around a sun or star."}
-{"verb": "", "meaning": "definition of \"colony\"", "example": "colony is an area controlled by another country with people from that country living there."}
-{"verb": "", "meaning": "definition of \"population\"", "example": "population is the number of people who live in an area."}
-{"verb": "", "meaning": "definition of \"empire\"", "example": "empire is a group of countries controlled by one leader or group."}
-{"verb": "", "meaning": "definition of \"government\"", "example": "government is the group of people who control a country or area."}
-{"verb": "", "meaning": "definition of \"emperor\"", "example": "emperor is the ruler of a group of countries controlled by one leader or group."}
-{"verb": "", "meaning": "definition of \"minister\"", "example": "minister is a politician who is in charge of a political department."}
-{"verb": "", "meaning": "definition of \"trusted\"", "example": "trusted is not likely to lie, harm or steal."}
-{"verb": "", "meaning": "definition of \"capsule\"", "example": "capsule is a small round object, in this case one used for travel."}
-{"verb": "", "meaning": "definition of \"farm\"", "example": "farm is an area of land where crops are grown and animals are kept."}
-{"verb": "", "meaning": "definition of \"space\"", "example": "space is of or related to the area outside Earth's atmosphere, where stars and planets are."}
-{"verb": "", "meaning": "definition of \"vehicle\"", "example": "vehicle is something that carries people or goods, especially on roads, for example a car or lorry."}
-{"verb": "", "meaning": "definition of \"uncomfortable\"", "example": "uncomfortable is not feeling nice or relaxed."}
-{"verb": "", "meaning": "definition of \"unconscious\"", "example": "unconscious is in a state like sleep in which you are not aware of what is happening, usually because you are seriously ill or injured."}
-{"verb": "", "meaning": "definition of \"spaceship\"", "example": "spaceship is a vehicle for travel in the area outside Earth's atmosphere."}
-{"verb": "", "meaning": "definition of \"calm\"", "example": "calm is to relax someone, to stop someone from being nervous, excited or upset."}
-{"verb": "", "meaning": "definition of \"lonely\"", "example": "lonely is unhappy because you are alone, with no friends around you."}
-{"verb": "", "meaning": "definition of \"carer\"", "example": "carer is someone who feeds and takes care of another person for a job."}
-{"verb": "", "meaning": "definition of \"run away\"", "example": "run away is to leave a place secretly."}
-{"verb": "", "meaning": "definition of \"sigh\"", "example": "sigh is to breathe out noisily, because you feel tired, disappointed, unhappy, etc."}
-{"verb": "", "meaning": "definition of \"survive\"", "example": "survive is to continue to live after something bad has happened."}
-{"verb": "", "meaning": "definition of \"quietly\"", "example": "quietly is with little or no noise."}
-{"verb": "", "meaning": "definition of \"spy\"", "example": "spy is someone whose job is to discover secret information about another country or company."}
-{"verb": "", "meaning": "definition of \"chaos\"", "example": "chaos is great confusion."}
-{"verb": "", "meaning": "definition of \"responsibility\"", "example": "responsibility is something that you must do or deal with."}
-{"verb": "", "meaning": "definition of \"barred\"", "example": "barred is if someone is barred from a place or barred from doing something, they are not allowed in or are not allowed to do it."}
-{"verb": "", "meaning": "definition of \"order\"", "example": "order is an instruction to do something."}
-{"verb": "", "meaning": "definition of \"stupid\"", "example": "stupid is silly or not clever."}
-{"verb": "", "meaning": "definition of \"policy\"", "example": "policy is a plan about how to deal with something by a government, political party, business, etc."}
-{"verb": "", "meaning": "definition of \"approve\"", "example": "approve is to think something or someone is good."}
-{"verb": "", "meaning": "definition of \"judge\"", "example": "judge is to form an opinion on something or someone."}
-{"verb": "", "meaning": "definition of \"be in (someone's) hands\"", "example": "be in (someone's) hands is to be completely under someone's control."}
-{"verb": "", "meaning": "definition of \"disgust\"", "example": "disgust is a strong feeling that you do not like or approve of something."}
-{"verb": "", "meaning": "definition of \"knock\"", "example": "knock is to make a sound on a hard surface, usually to get someone's attention."}
-{"verb": "", "meaning": "definition of \"radio\"", "example": "radio is a piece of equipment that you use for listening to programmes which are broadcast."}
-{"verb": "", "meaning": "definition of \"warning\"", "example": "warning is a statement that tells you about a possible danger or something bad that may happen."}
-{"verb": "", "meaning": "definition of \"condition\"", "example": "condition is a something that must exist or happen before another action can take place."}
+{"verb": "", "definition": "definition of \"mission\"", "example": "mission is an important or official job that someone believes he or she must do."}
+{"verb": "", "definition": "definition of \"beard\"", "example": "beard is the hair that grows on a man's chin."}
+{"verb": "", "definition": "definition of \"carefully\"", "example": "carefully is without making mistakes or causing damage."}
+{"verb": "", "definition": "definition of \"harm\"", "example": "harm is to hurt, damage or cause problems for someone or something."}
+{"verb": "", "definition": "definition of \"pocket\"", "example": "pocket is an extra piece of cloth sewn into a piece of clothing or a bag, used for keeping small things in."}
+{"verb": "", "definition": "definition of \"chest\"", "example": "chest is a large box for storing things."}
+{"verb": "", "definition": "definition of \"(of) value\"", "example": "(of) value is worth money, important."}
+{"verb": "", "definition": "definition of \"lock\"", "example": "lock is a device that fastens things such as doors and drawers, usually opened and closed using a key or number code."}
+{"verb": "", "definition": "definition of \"excitedly\"", "example": "excitedly is a feeling of being very happy and not calm because something good is going to happen."}
+{"verb": "", "definition": "definition of \"neat\"", "example": "neat is a tidy and arranged carefully."}
+{"verb": "", "definition": "definition of \"garage\"", "example": "garage is a small building that you keep your car in."}
+{"verb": "", "definition": "definition of \"unwrap\"", "example": "unwrap is to remove layers or cloth to open something up."}
+{"verb": "", "definition": "definition of \"gold necklace\"", "example": "gold necklace is a piece of jewellery for around the neck made of a pale yellow metal."}
+{"verb": "", "definition": "definition of \"expensive\"", "example": "expensive is costing a lot of money."}
+{"verb": "", "definition": "definition of \"jacket\"", "example": "jacket is a short coat, usually with long sleeves."}
+{"verb": "", "definition": "definition of \"sunglasses\"", "example": "sunglasses is a dark glasses that protect your eyes from the sun."}
+{"verb": "", "definition": "definition of \"button\"", "example": "button is a small round object you press to make a machine turn on or move."}
+{"verb": "", "definition": "definition of \"butler\"", "example": "butler is a person who helps other people in the home for a job."}
+{"verb": "", "definition": "definition of \"wooden\"", "example": "wooden is made of wood."}
+{"verb": "", "definition": "definition of \"traditional\"", "example": "traditional is based on customs that have existed for a long time."}
+{"verb": "", "definition": "definition of \"afternoon tea\"", "example": "afternoon tea is a light meal with tea eaten in the afternoon."}
+{"verb": "", "definition": "definition of \"specific\"", "example": "specific is an exact, of a certain type."}
+{"verb": "", "definition": "definition of \"impatient\"", "example": "impatient is easily angered because you don't like to wait."}
+{"verb": "", "definition": "definition of \"museum\"", "example": "museum is a building where collections of interesting things are arranged for people to see."}
+{"verb": "", "definition": "definition of \"flight\"", "example": "flight is a journey in an aircraft."}
+{"verb": "", "definition": "definition of \"modern\"", "example": "modern is to do with the present time and not the past."}
+{"verb": "", "definition": "definition of \"rental\"", "example": "rental is the act of paying money so that you can use something."}
+{"verb": "", "definition": "definition of \"consider\"", "example": "consider is to think about something carefully."}
+{"verb": "", "definition": "definition of \"taste\"", "example": "taste is a person's preferences for something such as clothing, art or behaviour."}
+{"verb": "", "definition": "definition of \"ring\"", "example": "ring is a round piece of jewellery that you wear on your finger."}
+{"verb": "", "definition": "definition of \"adopt\"", "example": "adopt is to take someone else's child into your family and legally become their parent."}
+{"verb": "", "definition": "definition of \"agency\"", "example": "agency is an organization or business that provides a particular service."}
+{"verb": "", "definition": "definition of \"sibling\"", "example": "sibling is a brother or sister."}
+{"verb": "", "definition": "definition of \"accident\"", "example": "accident is a bad thing that happens that is not intended."}
+{"verb": "", "definition": "definition of \"be born\"", "example": "be born is a person or animal is born when it comes out of its mother's body."}
+{"verb": "", "definition": "definition of \"terrible\"", "example": "terrible is a very bad."}
+{"verb": "", "definition": "definition of \"territory\"", "example": "territory is the land that a particular country controls."}
+{"verb": "", "definition": "definition of \"mountain\"", "example": "mountain is a very high hill."}
+{"verb": "", "definition": "definition of \"hunt\"", "example": "hunt is to chase and kill animals for food or for sport."}
+{"verb": "", "definition": "definition of \"chief\"", "example": "chief is a person in charge of a group or organization."}
+{"verb": "", "definition": "definition of \"muscle\"", "example": "muscle is one of the parts in the body that are connected to bones and that cause the body to move by becoming shorter or longer."}
+{"verb": "", "definition": "definition of \"strict\"", "example": "strict is an expecting people to obey your rules."}
+{"verb": "", "definition": "definition of \"expedition\"", "example": "expedition is a long journey, especially to a dangerous place or to a place that has not been visited before."}
+{"verb": "", "definition": "definition of \"river\"", "example": "river is a large stream of water that flows across land."}
+{"verb": "", "definition": "definition of \"shortage\"", "example": "shortage is when there is not enough of something."}
+{"verb": "", "definition": "definition of \"meat\"", "example": "meat is the flesh of animals eaten as food."}
+{"verb": "", "definition": "definition of \"god\"", "example": "god is a spirit that some people believe controls nature or represents a particular quality."}
+{"verb": "", "definition": "definition of \"wife\"", "example": "wife is a woman who a person is married to."}
+{"verb": "", "definition": "definition of \"strategy\"", "example": "strategy is a plan, the way you are going to get something."}
+{"verb": "", "definition": "definition of \"progress\"", "example": "progress is a movement forward towards a goal or completion of a plan."}
+{"verb": "", "definition": "definition of \"sail\"", "example": "sail is to travel somewhere in a ship or a boat."}
+{"verb": "", "definition": "definition of \"warrior\"", "example": "warrior is a soldier, especially in the past."}
+{"verb": "", "definition": "definition of \"bird\"", "example": "bird is a creature with wings and feathers that produces eggs."}
+{"verb": "", "definition": "definition of \"evidence\"", "example": "evidence is facts or objects that help to prove something."}
+{"verb": "", "definition": "definition of \"rough\"", "example": "rough is not smooth."}
+{"verb": "", "definition": "definition of \"storm\"", "example": "storm is a time when there is a lot of wind and rain."}
+{"verb": "", "definition": "definition of \"sky\"", "example": "sky is the area above Earth where you can see the sun, moon, stars and clouds."}
+{"verb": "", "definition": "definition of \"course (of a ship)\"", "example": "course (of a ship) is a direction that a vehicle is travelling in."}
+{"verb": "", "definition": "definition of \"wake (up)\"", "example": "wake (up) is to stop sleeping, or to make someone stop sleeping."}
+{"verb": "", "definition": "definition of \"resource\"", "example": "resource is something that you have and are able to use."}
+{"verb": "", "definition": "definition of \"sunrise\"", "example": "sunrise is a beginning of the day when the sun moves into the sky."}
+{"verb": "", "definition": "definition of \"doubt\"", "example": "doubt is a feeling of not being certain about something."}
+{"verb": "", "definition": "definition of \"exhaustion\"", "example": "exhaustion is a feeling of extreme tiredness."}
+{"verb": "", "definition": "definition of \"have a feeling\"", "example": "have a feeling is to believe that something is true not because of facts but because of emotions."}
+{"verb": "", "definition": "definition of \"risk\"", "example": "risk is to take the chance of damaging or losing something."}
+{"verb": "", "definition": "definition of \"forgive\"", "example": "forgive is to stop being angry with someone for something they have done."}
+{"verb": "", "definition": "definition of \"distracted\"", "example": "distracted is nervous or not able to think clearly because you are worried or upset."}
+{"verb": "", "definition": "definition of \"language\"", "example": "language is communication using speech and writing."}
+{"verb": "", "definition": "definition of \"gesture\"", "example": "gesture is to move your body or its parts to express what you think or feel."}
+{"verb": "", "definition": "definition of \"disease\"", "example": "disease is an illness."}
+{"verb": "", "definition": "definition of \"society\"", "example": "society is all the people who live in a group or in a particular country or area."}
+{"verb": "", "definition": "definition of \"damage\"", "example": "damage is to harm or hurt something."}
+{"verb": "", "definition": "definition of \"establish\"", "example": "establish is to start an organization or business."}
+{"verb": "", "definition": "definition of \"former\"", "example": "former is an existing or true in the past but not now."}
+{"verb": "", "definition": "definition of \"incident\"", "example": "incident is something that happens, especially something bad such as a crime."}
+{"verb": "", "definition": "definition of \"administrative assistant\"", "example": "administrative assistant is a person whose job is to help someone else in an office."}
+{"verb": "", "definition": "definition of \"barbecue\"", "example": "barbecue is a meal for which the food is cooked over a fire, usually outdoors."}
+{"verb": "", "definition": "definition of \"cook\"", "example": "cook is to prepare and heat food so that it is ready to eat."}
+{"verb": "", "definition": "definition of \"director\"", "example": "director is a manager of a business, organization or department."}
+{"verb": "", "definition": "definition of \"metal ball\"", "example": "metal ball is a round object made of a hard shiny material such as iron, gold or silver."}
+{"verb": "", "definition": "definition of \"go out\"", "example": "go out is to stop working or become dark."}
+{"verb": "", "definition": "definition of \"relax\"", "example": "relax is to rest and become calmer and less worried."}
+{"verb": "", "definition": "definition of \"wave\"", "example": "wave is to move your hand in order to say hello or goodbye or to attract someone's attention."}
+{"verb": "", "definition": "definition of \"invisible\"", "example": "invisible is impossible to see, not possible to be viewed by others."}
+{"verb": "", "definition": "definition of \"tone\"", "example": "tone is the quality of a sound or of someone's voice."}
+{"verb": "", "definition": "definition of \"meanwhile\"", "example": "meanwhile is at the same time."}
+{"verb": "", "definition": "definition of \"careful\"", "example": "careful is making sure that you do something correctly or safely."}
+{"verb": "", "definition": "definition of \"steal\"", "example": "steal is to take something without the owner's permission."}
+{"verb": "", "definition": "definition of \"security camera\"", "example": "security camera is an electronic device that makes videos of an area in real time so it can be watched and protected."}
+{"verb": "", "definition": "definition of \"bonus\"", "example": "bonus is something good that you get in addition to something else good."}
+{"verb": "", "definition": "definition of \"stock\"", "example": "stock is a part ownership of a company or business."}
+{"verb": "", "definition": "definition of \"profit\"", "example": "profit is a money you make by selling something for more than you paid for it."}
+{"verb": "", "definition": "definition of \"raise\"", "example": "raise is an increase in money paid to do a job."}
+{"verb": "", "definition": "definition of \"quarter\"", "example": "quarter is a three-month period in the business year."}
+{"verb": "", "definition": "definition of \"technology\"", "example": "technology is scientific knowledge, methods or equipment used in practical ways."}
+{"verb": "", "definition": "definition of \"potential\"", "example": "potential is the possibility of becoming something big or important in the future."}
+{"verb": "", "definition": "definition of \"investment\"", "example": "investment is an amount of money or time put into something in order to get a return."}
+{"verb": "", "definition": "definition of \"advanced\"", "example": "advanced is the newest or most developed."}
+{"verb": "", "definition": "definition of \"competitor\"", "example": "competitor is a person or business that tries to win or to be better than the others."}
+{"verb": "", "definition": "definition of \"technically\"", "example": "technically is according to official or usual practice."}
+{"verb": "", "definition": "definition of \"crowd\"", "example": "crowd is a large number of people or things together in one place."}
+{"verb": "", "definition": "definition of \"volunteer\"", "example": "volunteer is someone who offers to do something."}
+{"verb": "", "definition": "definition of \"hurt\"", "example": "hurt is to cause pain or injury to someone."}
+{"verb": "", "definition": "definition of \"confused\"", "example": "confused is unsure of what to think, believe or do."}
+{"verb": "", "definition": "definition of \"shake\"", "example": "shake is to make quick small movements from side to side or up and down (In this case, Sophie is moving her head from side to side to mean ‘no’.)"}
+{"verb": "", "definition": "definition of \"light\"", "example": "light is up to become filled with the energy that allows us to see."}
+{"verb": "", "definition": "definition of \"truth\"", "example": "truth is the true facts, something that is not a lie."}
+{"verb": "", "definition": "definition of \"kiss\"", "example": "kiss is to touch someone with your lips, especially on their mouth or face, to show is that you feel love or affection for them."}
+{"verb": "", "definition": "definition of \"support\"", "example": "support is to agree with an idea, person, etc. and want them to succeed."}
+{"verb": "", "definition": "definition of \"get lost\"", "example": "get lost is to not know where you are, to be unable to find your way."}
+{"verb": "", "definition": "definition of \"planet\"", "example": "planet is any of the large objects in the universe that move around a sun or star."}
+{"verb": "", "definition": "definition of \"colony\"", "example": "colony is an area controlled by another country with people from that country living there."}
+{"verb": "", "definition": "definition of \"population\"", "example": "population is the number of people who live in an area."}
+{"verb": "", "definition": "definition of \"empire\"", "example": "empire is a group of countries controlled by one leader or group."}
+{"verb": "", "definition": "definition of \"government\"", "example": "government is the group of people who control a country or area."}
+{"verb": "", "definition": "definition of \"emperor\"", "example": "emperor is the ruler of a group of countries controlled by one leader or group."}
+{"verb": "", "definition": "definition of \"minister\"", "example": "minister is a politician who is in charge of a political department."}
+{"verb": "", "definition": "definition of \"trusted\"", "example": "trusted is not likely to lie, harm or steal."}
+{"verb": "", "definition": "definition of \"capsule\"", "example": "capsule is a small round object, in this case one used for travel."}
+{"verb": "", "definition": "definition of \"farm\"", "example": "farm is an area of land where crops are grown and animals are kept."}
+{"verb": "", "definition": "definition of \"space\"", "example": "space is of or related to the area outside Earth's atmosphere, where stars and planets are."}
+{"verb": "", "definition": "definition of \"vehicle\"", "example": "vehicle is something that carries people or goods, especially on roads, for example a car or lorry."}
+{"verb": "", "definition": "definition of \"uncomfortable\"", "example": "uncomfortable is not feeling nice or relaxed."}
+{"verb": "", "definition": "definition of \"unconscious\"", "example": "unconscious is in a state like sleep in which you are not aware of what is happening, usually because you are seriously ill or injured."}
+{"verb": "", "definition": "definition of \"spaceship\"", "example": "spaceship is a vehicle for travel in the area outside Earth's atmosphere."}
+{"verb": "", "definition": "definition of \"calm\"", "example": "calm is to relax someone, to stop someone from being nervous, excited or upset."}
+{"verb": "", "definition": "definition of \"lonely\"", "example": "lonely is unhappy because you are alone, with no friends around you."}
+{"verb": "", "definition": "definition of \"carer\"", "example": "carer is someone who feeds and takes care of another person for a job."}
+{"verb": "", "definition": "definition of \"run away\"", "example": "run away is to leave a place secretly."}
+{"verb": "", "definition": "definition of \"sigh\"", "example": "sigh is to breathe out noisily, because you feel tired, disappointed, unhappy, etc."}
+{"verb": "", "definition": "definition of \"survive\"", "example": "survive is to continue to live after something bad has happened."}
+{"verb": "", "definition": "definition of \"quietly\"", "example": "quietly is with little or no noise."}
+{"verb": "", "definition": "definition of \"spy\"", "example": "spy is someone whose job is to discover secret information about another country or company."}
+{"verb": "", "definition": "definition of \"chaos\"", "example": "chaos is great confusion."}
+{"verb": "", "definition": "definition of \"responsibility\"", "example": "responsibility is something that you must do or deal with."}
+{"verb": "", "definition": "definition of \"barred\"", "example": "barred is if someone is barred from a place or barred from doing something, they are not allowed in or are not allowed to do it."}
+{"verb": "", "definition": "definition of \"order\"", "example": "order is an instruction to do something."}
+{"verb": "", "definition": "definition of \"stupid\"", "example": "stupid is silly or not clever."}
+{"verb": "", "definition": "definition of \"policy\"", "example": "policy is a plan about how to deal with something by a government, political party, business, etc."}
+{"verb": "", "definition": "definition of \"approve\"", "example": "approve is to think something or someone is good."}
+{"verb": "", "definition": "definition of \"judge\"", "example": "judge is to form an opinion on something or someone."}
+{"verb": "", "definition": "definition of \"be in (someone's) hands\"", "example": "be in (someone's) hands is to be completely under someone's control."}
+{"verb": "", "definition": "definition of \"disgust\"", "example": "disgust is a strong feeling that you do not like or approve of something."}
+{"verb": "", "definition": "definition of \"knock\"", "example": "knock is to make a sound on a hard surface, usually to get someone's attention."}
+{"verb": "", "definition": "definition of \"radio\"", "example": "radio is a piece of equipment that you use for listening to programmes which are broadcast."}
+{"verb": "", "definition": "definition of \"warning\"", "example": "warning is a statement that tells you about a possible danger or something bad that may happen."}
+{"verb": "", "definition": "definition of \"condition\"", "example": "condition is a something that must exist or happen before another action can take place."}

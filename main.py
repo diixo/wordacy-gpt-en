@@ -63,11 +63,11 @@ def main():
             obj = json.loads(line)
 
             val = obj.get("example")
-            definition = obj.get("meaning")
+            definition = obj.get("definition", None)
 
             if (definition is not None) and (definition != "") and (definition.find("definition") == 0):
                 if definition not in def_dict:
-                    def_dict[definition] = "meaning"
+                    def_dict[definition] = "definition"
                 else:
                     print(definition)
 
@@ -76,7 +76,9 @@ def main():
             if not isinstance(val, str):
                 if skip_nonstring:
                     continue
-                #val = str(val)
+
+            if definition is not None:
+                val = definition + ": " + val
             count = count_encoder(val)
 
             total_tokens += count
