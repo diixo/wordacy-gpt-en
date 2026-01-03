@@ -42,7 +42,7 @@ def main():
     #txt_to_jsonl("input.txt", "output.jsonl")
     #exit(0)
 
-    jsonl_path = "wordacy.jsonl"
+    jsonl_path = "wordacy-train.jsonl"
 
     def_dict = dict()
 
