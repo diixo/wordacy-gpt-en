@@ -44,7 +44,6 @@ def main():
 
     jsonl_path = "wordacy.jsonl"
 
-    skip_nonstring = True
     def_dict = dict()
 
     count_encoder = get_token_encoder()
@@ -73,9 +72,6 @@ def main():
 
             if val is None or val == "":
                 continue
-            if not isinstance(val, str):
-                if skip_nonstring:
-                    continue
 
             if definition is not None:
                 val = definition + ": " + val
